@@ -1,0 +1,981 @@
+{
+  "target": "codewithharry.com",
+  "domain": "codewithharry.com",
+  "base_url": "https://www.codewithharry.com",
+  "subdomains": [
+    "api.codewithharry.com",
+    "www.codewithharry.com",
+    "shop.codewithharry.com"
+  ],
+  "alive_subdomains": [
+    "www.codewithharry.com",
+    "shop.codewithharry.com"
+  ],
+  "urls": [
+    "https://www.codewithharry.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "https://shop.codewithharry.com/shipping",
+    "https://shop.codewithharry.com/about",
+    "https://shop.codewithharry.com/hoodies/javascript-hoodie-for-men-women",
+    "https://shop.codewithharry.com/_next/static/chunks/a6dad97d9634a72d.js",
+    "https://shop.codewithharry.com/",
+    "https://shop.codewithharry.com/checkout",
+    "https://www.codewithharry.com/blog",
+    "https://shop.codewithharry.com/_next/static/chunks/753e53d64114daaf.js",
+    "https://www.codewithharry.com/login.webp",
+    "https://shop.codewithharry.com",
+    "https://www.codewithharry.com/_next/static/chunks/3149-aaa991e6aceb710f.js",
+    "https://shop.codewithharry.com/_next/static/chunks/5dd58427c7ffc29d.js",
+    "https://shop.codewithharry.com/_next/static/chunks/f621b8010f8743bd.js",
+    "https://shop.codewithharry.com/oversized-tshirts/javascript-oversized-t-shirt-for-men-women",
+    "https://www.codewithharry.com/_next/static/chunks/3180-ff35791919c1c0be.js",
+    "https://www.codewithharry.com/_next/static/chunks/721-928fcb15804a587a.js",
+    "https://www.codewithharry.com/_next/static/chunks/ad0e3748-ac78d818ff30d44d.js",
+    "https://shop.codewithharry.com/return",
+    "https://www.codewithharry.com/tutorials",
+    "https://shop.codewithharry.com/_next/static/chunks/2298bc66cf7be31b.js",
+    "https://www.codewithharry.com/_next/static/chunks/app/(auth)/login/page-799d4dded77dab00.js",
+    "https://www.codewithharry.com/courses",
+    "https://shop.codewithharry.com/oversized-tshirts/html-oversized-t-shirt-for-men-women",
+    "https://shop.codewithharry.com/oversized-tshirts/css-oversized-t-shirt-for-men-women",
+    "https://shop.codewithharry.com/cdn-cgi/l/email-protection",
+    "https://www.codewithharry.com/terms",
+    "https://www.codewithharry.com/_next/static/chunks/7729-afd510cf2d60d412.js",
+    "https://www.codewithharry.com/_next/static/chunks/app/page-ac115fd36d0f9300.js",
+    "https://shop.codewithharry.com/_next/static/chunks/48796fcff804b0d1.js",
+    "https://shop.codewithharry.com/hoodies/python-hoodie-for-men-women",
+    "https://www.codewithharry.com/privacy",
+    "https://shop.codewithharry.com/_next/static/chunks/turbopack-5386e44e466faa4f.js",
+    "https://www.codewithharry.com/_next/static/chunks/webpack-734ef381effcd6d9.js",
+    "https://shop.codewithharry.com/_next/static/chunks/5c1c2c17e286e529.js",
+    "https://shop.codewithharry.com/oversized-tshirts/html-css-js-oversized-t-shirt-for-men-women",
+    "https://www.codewithharry.com/_next/static/chunks/5925-5bea92ecd245aba5.js",
+    "https://shop.codewithharry.com/oversized-tshirt-banner.webp",
+    "https://shop.codewithharry.com/_next/static/chunks/db818f22532efeb8.js",
+    "https://shop.codewithharry.com/hoodies/codewithharry-hoodie-for-men-women",
+    "https://www.codewithharry.com/_next/static/chunks/main-app-4ec58b787dd626b4.js",
+    "https://shop.codewithharry.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://www.codewithharry.com/login?redirectUrl=/dashboard",
+    "https://shop.codewithharry.com/cart",
+    "https://shop.codewithharry.com/_next/static/chunks/f61049299b636fc5.js",
+    "https://shop.codewithharry.com/hoodies/css-hoodie-for-men-women",
+    "https://www.codewithharry.com/_next/static/chunks/2540-19a205ab05ba99dd.js",
+    "https://shop.codewithharry.com/_next/static/chunks/990de68478e0fcfd.js",
+    "https://shop.codewithharry.com/oversized-tshirts/nextjs-oversized-t-shirt-for-men-women",
+    "https://www.codewithharry.com/_next/static/chunks/36ec42f0-984b6174a19c8f86.js",
+    "https://www.codewithharry.com/contact",
+    "https://www.codewithharry.com/_next/static/chunks/556-6d7a41f72e8df6e9.js",
+    "https://www.codewithharry.com/_next/static/chunks/c556396d-112e5c274d61bbae.js",
+    "https://shop.codewithharry.com/hoodies/html-hoodie-for-men-women",
+    "https://shop.codewithharry.com/_next/static/chunks/aa64bf4bd8130889.js",
+    "https://www.codewithharry.com/",
+    "https://www.codewithharry.com/gear",
+    "https://www.codewithharry.com/_next/static/chunks/2277-621f00809cbeb6ce.js",
+    "https://www.codewithharry.com/_next/static/chunks/8560-17f261fcf6950598.js",
+    "https://shop.codewithharry.com/terms",
+    "https://www.codewithharry.com/refund-policy",
+    "https://shop.codewithharry.com/hoodie-banner.webp",
+    "https://shop.codewithharry.com/privacy",
+    "https://www.codewithharry.com",
+    "https://shop.codewithharry.com/_next/static/chunks/ebf4d698258fec8b.js",
+    "https://www.codewithharry.com/_next/static/chunks/6942-32c6d6834deac7bc.js",
+    "https://shop.codewithharry.com/oversized-tshirts/codewithharry-oversized-t-shirt-for-men-women",
+    "https://shop.codewithharry.com/oversized-tshirts/python-oversized-t-shirt-for-men-women",
+    "https://www.codewithharry.com/notes",
+    "https://www.codewithharry.com/signup?redirectUrl=%2F",
+    "https://shop.codewithharry.com/hoodies",
+    "https://shop.codewithharry.com/oversized-tshirts",
+    "https://www.codewithharry.com/_next/static/chunks/7533-0b708bf965abf562.js",
+    "https://shop.codewithharry.com/contact",
+    "https://shop.codewithharry.com/_next/static/chunks/2511f509b114328c.js",
+    "https://www.codewithharry.com/login?redirectUrl=%2F",
+    "https://www.codewithharry.com/_next/static/chunks/7728-ae669925a762f0cc.js",
+    "https://www.codewithharry.com/_next/static/chunks/app/layout-602ae080ad03b7e2.js",
+    "https://www.codewithharry.com/work"
+  ],
+  "alive_endpoints": {
+    "/privacy": [
+      "page",
+      "id"
+    ],
+    "/": [
+      "page",
+      "id"
+    ],
+    "/blog": [
+      "page",
+      "id"
+    ],
+    "/refund-policy": [
+      "page",
+      "id"
+    ],
+    "/contact": [
+      "page",
+      "id"
+    ],
+    "/terms": [
+      "page",
+      "id"
+    ],
+    "/gear": [
+      "page",
+      "id"
+    ],
+    "/notes": [
+      "page",
+      "id"
+    ],
+    "/api/search": [
+      "iD",
+      "url",
+      "video",
+      "width",
+      "void"
+    ],
+    "/api/tutorials": [
+      "iD",
+      "url",
+      "video",
+      "width",
+      "void"
+    ],
+    "/login": [
+      "redirectUrl",
+      "id",
+      "username",
+      "page",
+      "next"
+    ],
+    "/tutorials": [
+      "page",
+      "id"
+    ],
+    "/signup": [
+      "page",
+      "redirectUrl",
+      "id"
+    ],
+    "/work": [
+      "page",
+      "id"
+    ],
+    "/courses": [
+      "page",
+      "id"
+    ]
+  },
+  "endpoints": {
+    "/privacy": [
+      "page",
+      "id"
+    ],
+    "/": [
+      "page",
+      "id"
+    ],
+    "/blog": [
+      "page",
+      "id"
+    ],
+    "/refund-policy": [
+      "page",
+      "id"
+    ],
+    "/contact": [
+      "page",
+      "id"
+    ],
+    "/terms": [
+      "page",
+      "id"
+    ],
+    "/gear": [
+      "page",
+      "id"
+    ],
+    "/notes": [
+      "page",
+      "id"
+    ],
+    "/api/search": [
+      "iD",
+      "url",
+      "video",
+      "width",
+      "void"
+    ],
+    "/api/tutorials": [
+      "iD",
+      "url",
+      "video",
+      "width",
+      "void"
+    ],
+    "/login": [
+      "redirectUrl",
+      "id",
+      "username",
+      "page",
+      "next"
+    ],
+    "/tutorials": [
+      "page",
+      "id"
+    ],
+    "/signup": [
+      "page",
+      "redirectUrl",
+      "id"
+    ],
+    "/work": [
+      "page",
+      "id"
+    ],
+    "/courses": [
+      "page",
+      "id"
+    ]
+  },
+  "parameters": {
+    "/privacy": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/blog": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/refund-policy": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/contact": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/terms": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/gear": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/notes": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/api/search": [
+      {
+        "name": "iD",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "url",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 10,
+        "test_priority": 4
+      },
+      {
+        "name": "void",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "video",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "width",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/api/tutorials": [
+      {
+        "name": "iD",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "url",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 10,
+        "test_priority": 4
+      },
+      {
+        "name": "void",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "video",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "width",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/login": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "next",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect"
+        ],
+        "confidence": 9,
+        "test_priority": 4
+      },
+      {
+        "name": "username",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "XSS"
+        ],
+        "confidence": 6,
+        "test_priority": 4
+      },
+      {
+        "name": "redirectUrl",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "LFI",
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 7,
+        "test_priority": 4
+      }
+    ],
+    "/tutorials": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/signup": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "redirectUrl",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "LFI",
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 7,
+        "test_priority": 4
+      }
+    ],
+    "/work": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/courses": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ]
+  },
+  "sensitive_files": [],
+  "vulnerabilities": [
+    {
+      "type": "SQLi",
+      "subtype": "Error-based SQLi",
+      "endpoint": "/login",
+      "parameter": "id",
+      "payload": "' OR '1'='1",
+      "indicator": "SQL error keyword: error",
+      "confidence": "High",
+      "reasoning": "Database error signatures appeared only after SQL payload injection.",
+      "severity": "HIGH"
+    },
+    {
+      "type": "SSRF",
+      "subtype": "Server-Side Request Forgery",
+      "endpoint": "/login",
+      "parameter": "redirectUrl",
+      "payload": "http://127.0.0.1",
+      "indicator": "Internal network indicator returned: 127.0.0.1",
+      "confidence": "Medium",
+      "reasoning": "Internal addressing artifacts appeared only after URL injection.",
+      "severity": "HIGH"
+    }
+  ],
+  "attack_paths": [
+    {
+      "chain_string": "Web Crawling -> /login -> id -> Potential SQLi -> Attacker can read, modify, or delete database contents. Potential for full system compromise.",
+      "chain": [
+        "Web Crawling",
+        "Found Endpoint: /login",
+        "Parameter: id",
+        "Vulnerability: Potential SQLi"
+      ],
+      "source": "Web Crawling",
+      "endpoint": "/login",
+      "parameter": "id",
+      "attack_type": "Potential SQLi",
+      "severity": "INFO",
+      "confidence": "High",
+      "steps": 4,
+      "exploitability": "Easy",
+      "exploit_methodology": [
+        "1. Identify vulnerable parameter accepting user input",
+        "2. Test with SQL meta-characters (\", ', --)",
+        "3. Confirm injection by observing error messages or behavior changes",
+        "4. Execute database queries to extract sensitive data",
+        "5. Escalate to full database compromise or RCE"
+      ],
+      "business_impact": "Attacker can read, modify, or delete database contents. Potential for full system compromise.",
+      "reasoning": "Database error signatures appeared only after SQL payload injection.",
+      "risk_chain": "HIGH Potential SQLi on /login via id"
+    }
+  ],
+  "scored_endpoints": [
+    {
+      "endpoint": "/api/search",
+      "score": 13,
+      "risk_level": "CRITICAL",
+      "parameter_count": 5,
+      "high_risk_params": 4,
+      "confidence": 10
+    },
+    {
+      "endpoint": "/api/tutorials",
+      "score": 13,
+      "risk_level": "CRITICAL",
+      "parameter_count": 5,
+      "high_risk_params": 4,
+      "confidence": 10
+    },
+    {
+      "endpoint": "/login",
+      "score": 8,
+      "risk_level": "HIGH",
+      "parameter_count": 5,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/privacy",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/blog",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/refund-policy",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/contact",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/terms",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/gear",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/notes",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/tutorials",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/signup",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 3,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/work",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/courses",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    }
+  ],
+  "js_analysis": {
+    "https://www.codewithharry.com/_next/static/chunks/polyfills-42372ed130431b0a.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "endpoints": "set()",
+      "parameters": "{'Arguments', 'CLOUDFLARE', 'uy', 'GeneratorFunction', 'NODE', 'values', 'dgimsy', 'BUN', 'BROWSER', 'AsyncGeneratorFunction', 'set', 'keys', 'Iy', 'AsyncFunction', 'DENO', 'entries'}",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/f61049299b636fc5.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/f61049299b636fc5.js",
+      "endpoints": "set()",
+      "parameters": "{'number', 'server', 'fulfilled', 'bigint', 'typeof', 'object', 'rejected', 'string'}",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/a6dad97d9634a72d.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/a6dad97d9634a72d.js",
+      "endpoints": "set()",
+      "parameters": "{'Arguments', 'CLOUDFLARE', 'uy', 'GeneratorFunction', 'NODE', 'values', 'dgimsy', 'BUN', 'BROWSER', 'AsyncGeneratorFunction', 'set', 'keys', 'Iy', 'AsyncFunction', 'DENO', 'entries'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/2540-19a205ab05ba99dd.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/2540-19a205ab05ba99dd.js",
+      "endpoints": "set()",
+      "parameters": "{'onload', 'typeof', 'render', 'appendChild'}",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/990de68478e0fcfd.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/990de68478e0fcfd.js",
+      "endpoints": "set()",
+      "parameters": "{'appendChild', 'removeChild', 'then', 'replace', 'push'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/36ec42f0-984b6174a19c8f86.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/36ec42f0-984b6174a19c8f86.js",
+      "endpoints": "set()",
+      "parameters": "{'scroll', 'input', 'pointerover', 'xmlLang', 'br', 'compositionstart', 'hashchange', 'contentEditable', 'math', 'rT', 'innerHTML', 'width', 'compositionupdate', 'formAction', 'area', 'beforeblur', 'rows', 'div', 'seeked', 'multiple', 'blur', 'dangerouslySetInnerHTML', 'formNoValidate', 'fulfilled', 'ref', 'xlinkActuate', 'allowFullScreen', 'uZ', 'set', 'required', 'LINK', 'data', 'link', 'scoped', 'pointermove', 'playsInline', 'dragend', 'open', 'auxclick', 'source', 'ratechange', 'mount', 'script', 'body', 'HEAD', 'click', 'popover', 'SCRIPT', 'defaultChecked', 'className', 'Capture', 'li', 'role', 'size', 'bigint', 'onScrollEnd', 'action', 'srcSet', 'noModule', 'keypress', 'string', 'wheel', 'track', 'selectstart', 'onMouseMove', 'drag', 'preserveAlpha', 'disableRemotePlayback', 'contextmenu', 'pointerup', 'compositionend', 'itemScope', 'gotpointercapture', 'submit', 'afterblur', 'touchcancel', 'onMouseUpCapture', 'beforetoggle', 'xlinkArcrole', 'selectionchange', 'name', 'dragexit', 'value', 'pointerout', 'img', 'collapsed', 'children', 'src', 'text', 'textInput', 'readOnly', 'void', 'volumechange', 'autoPlay', 'dragenter', 'object', 'controls', 'dir', 'autoFocus', 'checked', 'onMouseUp', 'path', 'xmlBase', 'message', 'reactFormReplay', 'keyup', 'spellCheck', 'onClick', 'dblclick', 'mouseenter', 'xmlSpace', 'onMouseEnter', 'option', 'textContent', 'play', 'download', 'invalid', 'popstate', 'mouseover', 'reversed', 'audioworklet', 'number', 'paste', 'xlinkRole', 'title', 'Unidentified', 'is', 'noValidate', 'touchend', 'map', 'mouseout', 'HTML', 'xlinkType', 'pause', 'pointercancel', 'onMouseDown', 'audio', 'onDoubleClick', 'dragleave', 'meta', 'together', 'suppressHydrationWarning', 'rowSpan', 'embed', 'sharedworker', 'worker', 'mouseleave', 'resize', 'lj', 'innerText', 'focusable', 'mousemove', 'pointerdown', 'head', 'mousedown', 'dragover', 'externalResourcesRequired', 'focusin', 'change', 'cancel', 'wbr', 'capture', 'backwards', 'button', 'fullscreenchange', 'dialog', 'image', 'type', 'menuitem', 'rejected', 'pointerleave', 'inert', 'base', 'style', 'xlinkHref', 'loop', 'autoReverse', 'lostpointercapture', 'video', 'hidden', 'mouseup', 'tabIndex', 'select', 'BODY', 'viewBox', 'forwards', 'span', 'get', 'disablePictureInPicture', 'Enter', 'keygen', 'iU', 'defaultValue', 'touchstart', 'typeof', 'svg', 'onScroll', 'u4', 'focusout', 'draggable', 'onClickCapture', 'col', 'beforeinput', 'xlinkShow', 'reset', 'keydown', 'symbol', 'u3', 'onDoubleClickCapture', 'close', 'copy', 'height', 'pointerenter', 'serviceworker', 'xlinkTitle', 'start', 'stylesheet', 'onMouseMoveCapture', 'html', 'scrollend', 'paintworklet', 'touchmove', 'drop', 'toggle', 'param', 'details', 'dragstart', 'href', 'cols', 'focus', 'hr', 'textarea', 'muted', 'uG', 'STYLE', 'cut', 'seamless', 'iframe', 'defer', 'onMouseDownCapture', 'disabled', 'boolean'}",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/753e53d64114daaf.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/753e53d64114daaf.js",
+      "endpoints": "set()",
+      "parameters": "{'scroll', 'input', 'pointerover', 'xmlLang', 'br', 'compositionstart', 'hashchange', 'contentEditable', 'math', 'innerHTML', 'width', 'compositionupdate', 'formAction', 'area', 'beforeblur', 'rows', 'div', 'seeked', 'multiple', 'blur', 'dangerouslySetInnerHTML', 'formNoValidate', 'fulfilled', 'ref', 'xlinkActuate', 'allowFullScreen', 'set', 'required', 'LINK', 'data', 'link', 'scoped', 'pointermove', 'playsInline', 'dragend', 'open', 'auxclick', 'source', 'ratechange', 'mount', 'script', 'body', 'HEAD', 'click', 'popover', 'SCRIPT', 'defaultChecked', 'className', 'Capture', 'li', 'role', 'size', 'bigint', 'onScrollEnd', 'action', 'srcSet', 'noModule', 'keypress', 'string', 'wheel', 'track', 'selectstart', 'r_', 'onMouseMove', 'drag', 'preserveAlpha', 'disableRemotePlayback', 'contextmenu', 'pointerup', 'compositionend', 'itemScope', 'gotpointercapture', 'submit', 'afterblur', 'touchcancel', 'onMouseUpCapture', 'beforetoggle', 'xlinkArcrole', 'selectionchange', 'name', 'dragexit', 'value', 'pointerout', 'img', 'collapsed', 'children', 'src', 'text', 'u0', 'textInput', 'readOnly', 'volumechange', 'autoPlay', 'dragenter', 'object', 'controls', 'dir', 'autoFocus', 'checked', 'onMouseUp', 'path', 'xmlBase', 'message', 'reactFormReplay', 'keyup', 'spellCheck', 'onClick', 'dblclick', 'mouseenter', 'xmlSpace', 'onMouseEnter', 'option', 'textContent', 'play', 'download', 'invalid', 'popstate', 'mouseover', 'reversed', 'audioworklet', 'number', 'paste', 'xlinkRole', 'title', 'Unidentified', 'is', 'noValidate', 'u1', 'touchend', 'map', 'mouseout', 'HTML', 'xlinkType', 'pause', 'pointercancel', 'onMouseDown', 'audio', 'onDoubleClick', 'dragleave', 'meta', 'together', 'suppressHydrationWarning', 'rowSpan', 'embed', 'sharedworker', 'worker', 'mouseleave', 'resize', 'lj', 'innerText', 'focusable', 'mousemove', 'pointerdown', 'head', 'mousedown', 'dragover', 'externalResourcesRequired', 'focusin', 'change', 'cancel', 'wbr', 'capture', 'backwards', 'button', 'fullscreenchange', 'dialog', 'image', 'type', 'menuitem', 'rejected', 'pointerleave', 'inert', 'base', 'style', 'xlinkHref', 'loop', 'autoReverse', 'lostpointercapture', 'iD', 'video', 'hidden', 'mouseup', 'tabIndex', 'select', 'BODY', 'viewBox', 'forwards', 'span', 'get', 'disablePictureInPicture', 'Enter', 'keygen', 'touchstart', 'defaultValue', 'typeof', 'svg', 'onScroll', 'focusout', 'draggable', 'onClickCapture', 'col', 'uX', 'beforeinput', 'xlinkShow', 'reset', 'keydown', 'symbol', 'uK', 'onDoubleClickCapture', 'close', 'copy', 'height', 'pointerenter', 'serviceworker', 'xlinkTitle', 'start', 'stylesheet', 'onMouseMoveCapture', 'html', 'scrollend', 'paintworklet', 'touchmove', 'drop', 'toggle', 'param', 'details', 'dragstart', 'void', 'href', 'cols', 'focus', 'hr', 'textarea', 'muted', 'STYLE', 'cut', 'seamless', 'iframe', 'defer', 'onMouseDownCapture', 'disabled', 'boolean'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/556-6d7a41f72e8df6e9.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/556-6d7a41f72e8df6e9.js",
+      "endpoints": "set()",
+      "parameters": "{'replace'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/c556396d-112e5c274d61bbae.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/c556396d-112e5c274d61bbae.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/3149-aaa991e6aceb710f.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/3149-aaa991e6aceb710f.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/5dd58427c7ffc29d.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/5dd58427c7ffc29d.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "{'/cart', '/contact', '/oversized-tshirts', '/hoodies', '/about'}"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/aa64bf4bd8130889.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/aa64bf4bd8130889.js",
+      "endpoints": "{'/api/products/'}",
+      "parameters": "{'url', 'text'}",
+      "paths": "{'/hoodies', '/oversized-tshirts', '/tshirts'}"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/2277-621f00809cbeb6ce.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/2277-621f00809cbeb6ce.js",
+      "endpoints": "set()",
+      "parameters": "{'mounted', 'open'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/8560-17f261fcf6950598.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/8560-17f261fcf6950598.js",
+      "endpoints": "set()",
+      "parameters": "{'qrunsl', '153udz', '18n3k1', '1ocrg3'}",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/f621b8010f8743bd.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/f621b8010f8743bd.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/ebf4d698258fec8b.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/ebf4d698258fec8b.js",
+      "endpoints": "set()",
+      "parameters": "{'typeof', 'request', 'cache', 'prerender'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/6942-32c6d6834deac7bc.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/6942-32c6d6834deac7bc.js",
+      "endpoints": "set()",
+      "parameters": "{'server', 'resolved_module', 'di', 'typeof', 'replace', 'push', 'ci', 'appendChild', 'low', 'removeChild', 'pending', 'value', 'fulfilled', 'high', 'halted', 'then', 'object', 'vary', 'oc', 'html', 'done', 'rejected', 'resolved_model', 'Infinity', 'number', 'dom', 'bigint', 'blocked', 'NaN', 'string'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/3180-ff35791919c1c0be.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/3180-ff35791919c1c0be.js",
+      "endpoints": "set()",
+      "parameters": "{'insertAdjacentElement', 'paddingRight', 'paddingTop', 'removeAttribute', 'div', 'style', 'margin', 'getAttribute', 'none', 'auto', 'classList', 'setAttribute', 'paddingLeft'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/721-928fcb15804a587a.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/721-928fcb15804a587a.js",
+      "endpoints": "set()",
+      "parameters": "{'149t6j', 'mixed', '1bl5f8', 'ptbguv', 'system', '1lh1kg', '1owob3', '1m8zz5', 'qrunsl', '1uf3rs', '1e0a9i', '1v7zrd', 'dark', 'appendChild', '1gmf2c', 'd8bk6v', 'yk5zj1', 'visible', 'ArrowLeft', '1mglay', 'right', 'ruj8y', 'open', 'checked', '1gabdz', 'start', 'page', '1uyos4', 'px', 'mthhwq', 'ArrowRight', '4exip2', '4ej97u', 'tus03m', 'indeterminate', '1q8mjw', 'none', 'a7tn18', '1shlcs', '1akyts', 'light', '1qme2f', 'left', '1t8f8n', '1qie3q'}",
+      "paths": "{'/_next/image'}"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/ad0e3748-ac78d818ff30d44d.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/ad0e3748-ac78d818ff30d44d.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/2298bc66cf7be31b.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/2298bc66cf7be31b.js",
+      "endpoints": "set()",
+      "parameters": "{'request', 'status', 'prerender', 'typeof', 'then', 'cache'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/app/(auth)/login/page-799d4dded77dab00.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/app/(auth)/login/page-799d4dded77dab00.js",
+      "endpoints": "set()",
+      "parameters": "{'redirectUrl', 'recaptchaToken'}",
+      "paths": "{'/terms', '/privacy'}"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/7729-afd510cf2d60d412.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/7729-afd510cf2d60d412.js",
+      "endpoints": "set()",
+      "parameters": "{'indexOf', 'replace'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/app/page-ac115fd36d0f9300.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/app/page-ac115fd36d0f9300.js",
+      "endpoints": "set()",
+      "parameters": "{'appendChild'}",
+      "paths": "{'/blog', '/courses', '/_next/image'}"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/7533-0b708bf965abf562.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/7533-0b708bf965abf562.js",
+      "endpoints": "set()",
+      "parameters": "{'url', 'lazy', 'fill', 'base', 'cover', 'none', 'title', 'meta', 'xMidYMid'}",
+      "paths": "{'/_next/image'}"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/48796fcff804b0d1.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/48796fcff804b0d1.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/2511f509b114328c.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/2511f509b114328c.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/7728-ae669925a762f0cc.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/7728-ae669925a762f0cc.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/turbopack-5386e44e466faa4f.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/turbopack-5386e44e466faa4f.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/webpack-734ef381effcd6d9.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/webpack-734ef381effcd6d9.js",
+      "endpoints": "set()",
+      "parameters": "{'missing', 'badf541d'}",
+      "paths": "set()"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/5c1c2c17e286e529.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/5c1c2c17e286e529.js",
+      "endpoints": "set()",
+      "parameters": "{'resolved_module', 'di', 'typeof', 'ci', 'low', 'pending', 'value', 'fulfilled', 'high', 'halted', 'vary', 'oc', 'prerender', 'html', 'done', 'rejected', 'resolved_model', 'Infinity', 'dom', 'blocked', 'NaN'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/5925-5bea92ecd245aba5.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/5925-5bea92ecd245aba5.js",
+      "endpoints": "set()",
+      "parameters": "{'right', 'bestFit', 'end', 'reference', 'top', 'start', 'bottom', 'clientHeight', 'escaped', 'hidden', 'initialPlacement', 'width', 'typeof', 'left', 'floating', 'referenceHidden', 'height'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/app/layout-602ae080ad03b7e2.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/app/layout-602ae080ad03b7e2.js",
+      "endpoints": "{'/api/search', '/api/tutorials'}",
+      "parameters": "{'redirectUrl', 'type', 'dark'}",
+      "paths": "{'/blog', '/notes', '/terms', '/courses', '/contact', '/work', '/refund-policy', '/courses/', '/tutorial/overview/', '/tutorials', '/gear', '/tutorial/overview/js', '/tutorial/overview/html-home', '/privacy', '/tutorial/overview/python'}"
+    },
+    "https://shop.codewithharry.com/_next/static/chunks/db818f22532efeb8.js": {
+      "url": "https://shop.codewithharry.com/_next/static/chunks/db818f22532efeb8.js",
+      "endpoints": "set()",
+      "parameters": "{'indexOf', 'replace'}",
+      "paths": "set()"
+    },
+    "https://www.codewithharry.com/_next/static/chunks/main-app-4ec58b787dd626b4.js": {
+      "url": "https://www.codewithharry.com/_next/static/chunks/main-app-4ec58b787dd626b4.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    }
+  },
+  "correlation": {
+    "attack_surface_summary": {
+      "total_subdomains": 2,
+      "total_urls": 79,
+      "total_endpoints": 15,
+      "total_parameters": 40
+    },
+    "security_findings": {
+      "total_vulnerabilities": 2,
+      "critical_endpoints": 3,
+      "attack_paths_identified": 1
+    },
+    "priority_targets": [
+      {
+        "endpoint": "/login",
+        "score": 8,
+        "risk_level": "HIGH",
+        "parameter_count": 5,
+        "high_risk_params": 1,
+        "confidence": 5
+      }
+    ],
+    "critical_findings": [
+      {
+        "type": "SQLi",
+        "subtype": "Error-based SQLi",
+        "endpoint": "/login",
+        "parameter": "id",
+        "payload": "' OR '1'='1",
+        "indicator": "SQL error keyword: error",
+        "confidence": "High",
+        "reasoning": "Database error signatures appeared only after SQL payload injection.",
+        "severity": "HIGH",
+        "final_score": 12.0,
+        "risk_level": "CRITICAL",
+        "risk_numeric": 4
+      }
+    ],
+    "recommendations": [
+      "Found 2 potential vulnerabilities with supporting evidence - remediation recommended",
+      "Identified 1 high-risk endpoints - prioritize security review",
+      "Implement Web Application Firewall (WAF) to protect against identified attack vectors"
+    ]
+  },
+  "tested_endpoints": 3,
+  "candidate_endpoints": 3,
+  "start_time": 1774673932.0794563,
+  "elapsed_time": 76.9968147277832,
+  "wordlists_used": {
+    "subdomain": "default",
+    "directory": "default"
+  }
+}

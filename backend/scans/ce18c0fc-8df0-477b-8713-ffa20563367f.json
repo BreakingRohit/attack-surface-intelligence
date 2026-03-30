@@ -1,0 +1,46 @@
+{
+  "target": "vulnweb.com",
+  "domain": "vulnweb.com",
+  "base_url": "https://www.vulnweb.com",
+  "subdomains": [
+    "www.vulnweb.com",
+    "localhost.vulnweb.com"
+  ],
+  "alive_subdomains": [],
+  "urls": [],
+  "alive_endpoints": {},
+  "endpoints": {},
+  "parameters": {},
+  "sensitive_files": [],
+  "vulnerabilities": [],
+  "attack_paths": [],
+  "scored_endpoints": [],
+  "js_analysis": {},
+  "correlation": {
+    "attack_surface_summary": {
+      "total_subdomains": 0,
+      "total_urls": 0,
+      "total_endpoints": 0,
+      "total_parameters": 0
+    },
+    "security_findings": {
+      "total_vulnerabilities": 0,
+      "critical_endpoints": 0,
+      "attack_paths_identified": 0
+    },
+    "priority_targets": [],
+    "critical_findings": [],
+    "recommendations": [
+      "No confirmed vulnerabilities, but 0 potential attack vectors were identified",
+      "Implement Web Application Firewall (WAF) to protect against identified attack vectors"
+    ]
+  },
+  "tested_endpoints": 0,
+  "candidate_endpoints": 0,
+  "start_time": 1774673802.3797302,
+  "elapsed_time": 61.248371601104736,
+  "wordlists_used": {
+    "subdomain": "default",
+    "directory": "default"
+  }
+}

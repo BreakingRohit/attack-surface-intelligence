@@ -1,0 +1,2270 @@
+{
+  "target": "picsart.com",
+  "domain": "picsart.com",
+  "base_url": "https://www.picsart.com",
+  "subdomains": [
+    "cdn.picsart.com",
+    "www.picsart.com",
+    "static.picsart.com",
+    "ns1.picsart.com",
+    "api.picsart.com",
+    "dev.picsart.com",
+    "blog.picsart.com",
+    "store.picsart.com",
+    "ns2.picsart.com"
+  ],
+  "alive_subdomains": [
+    "api.picsart.com",
+    "www.picsart.com"
+  ],
+  "urls": [
+    "https://picsart.com/search/",
+    "https://picsart.com/ai-influencer-studio?vibeId=creatures",
+    "https://pastatic.picsart.com",
+    "https://picsart.com/ai-image-generator/",
+    "https://picsart.com/privacy-policy/",
+    "https://www.picsart.com",
+    "https://picsart.com/ai-influencer-studio?vibeId=wellness_guru",
+    "https://picsart.com/ai-avatar/",
+    "https://ai.picsart.com/gw1",
+    "https://picsart.com/landings-ssr/_next/static/chunks/2e91514a83da74ae.js",
+    "https://picsart.com/landings-ssr/_next/static/chunks/7ddde28df01258a6.js",
+    "https://tools.picsart.com/",
+    "https://picsart.com/landings-ssr/_next/static/chunks/730f42fedb28b667.js",
+    "https://picsart.com/ai-influencer-studio?vibeId=cyberpunk_edge",
+    "https://picsart.com/ai-playground/",
+    "https://picsart.com/create/editor?category=miniapps&app=com.picsart.infinite-heroes",
+    "https://picsart.com/landings-ssr/_next/static/chunks/046b276477bfc857.js",
+    "https://cdn130.picsart.com",
+    "https://picsart.com/ai-influencer-studio?vibeId=effortlessly_cool",
+    "https://picsart.com/ai-influencer-studio?vibeId=y2k",
+    "https://picsart.com/create/assets/manifest-CsuRkijs.js",
+    "https://picsart.com/ai-influencer-studio?vibeId=retro_revival",
+    "https://picsart.com/create/workflows/manifest.webmanifest",
+    "https://picsart.com/sign-in/?nextUrl=/create",
+    "https://picsart.com/affiliates/",
+    "https://cdn140.picsart.com/69624423237702047608.json",
+    "https://effres.picsart.com",
+    "https://picsart.com/apps?experience=edit&mapp=com.picsart.aura&mode=video&prompt=Woman%20with%20curly%20hair%20and%20bangs%2C%20wide-eyed%20surprised%20reaction%2C%20nose%20ring%2C%20nighttime%20selfie%2C%20storytelling%20moment",
+    "https://picsart.com/landings-ssr/_next/static/chunks/580be733a23b7963.js",
+    "https://picsart.com/landings-ssr/_next/static/chunks/0641c68182723641.js",
+    "https://picsart.com/ai-influencer-studio?vibeId=dark_fantasy",
+    "https://picsart.com/create/workflows/assets/index-CW0b_LHG.js",
+    "https://picsart.com/landings-ssr/_next/static/chunks/a6dad97d9634a72d.js",
+    "https://picsart.com/create/registerSW.js",
+    "https://picsart.com/ai-influencer-studio?vibeId=old_money",
+    "https://picsart.com/community-guidelines/",
+    "https://picsart.com/create/assets/manifest-DO2uzK1L.js",
+    "https://picsart.com/",
+    "https://upload.picsart.com",
+    "https://api.picsart.com",
+    "https://t.picsart.com",
+    "https://picsart.com/-/app-shell/2.130.5/static/index-C6E1wiRy.js",
+    "https://picsart.com/terms-of-use/",
+    "https://picsart.com/apps/",
+    "https://picsart.com/create/assets/heic-to-B_0QBRI6.js",
+    "https://picsart.com/landings-ssr/_next/static/chunks/f5e7aadae35502e2.js",
+    "https://support.picsart.com/hc/en-us",
+    "https://picsart.com/manifest.webmanifest",
+    "https://picsart.com/create/editor?category=layout",
+    "https://picsart.com/about-us/",
+    "https://picsart.com/ai-influencer-studio?vibeId=luxury_elite",
+    "https://picsart.com/design/",
+    "https://picsart.com/persona/",
+    "https://picsart.com/create/assets/clonObject-xK3a5aOP.js",
+    "https://picsart.com/security-policy/",
+    "https://picsart.com/landings-ssr/_next/static/chunks/ba0a79be54787ab7.js",
+    "https://picsart.com/create/assets/manifest-OO-kEa43.js",
+    "https://picsart.com/templates/instagram/stories/",
+    "https://picsart.com/landings-ssr/_next/static/chunks/bfd6eee454633b82.js",
+    "https://picsart.com/landings-ssr/_next/static/chunks/a7ea0fadefdf6983.js",
+    "https://magicflow.picsart.com",
+    "https://picsart.com/careers/",
+    "https://picsart.com/ai-influencer-studio/",
+    "https://picsart.com/copyright-dispute-policy/",
+    "https://picsart.com/ai-influencer-studio?vibeId=fun_playful",
+    "https://picsart.com/landings-ssr/_next/static/chunks/8f51a44ec99a5188.js",
+    "https://picsart.com/apps?experience=edit&mapp=com.picsart.aura&mode=video&prompt=Extreme%20close-up%20of%20me%20applying%20pink%20cream%20blush%20to%20my%20cheekbone%20%E2%80%94%20fingertips%20pressing%20the%20product%20in%2C%20glossy%20swipe%20catching%20clean%20white%20studio%20light.%20I%20pat%20the%20color%20in%20gently%2C%20then%20tilt%20my%20chin%20and%20smile%2C%20blush%20perfectly%20diffused.%20Beauty%20editorial%20meets%20GRWM%20energy%2C%20skin%20texture%20visible%20at%20every%20pore",
+    "https://picsart.com/ai-influencer-studio?vibeId=cottagecore",
+    "https://picsart.com/undefined",
+    "https://picsart.com/blog/",
+    "https://cdn-cms-uploads.picsart.com",
+    "https://picsart.com/ai-video-generator/",
+    "https://picsart.com/create/assets/hostInit-DN0VETpe.js",
+    "https://picsart.com/press-kit/",
+    "https://picsart.com/create?app=com.picsart.social.storyline",
+    "https://picsart.com/pricing/",
+    "https://picsart.com/landings-ssr/_next/static/chunks/880964428bc9b25d.js",
+    "https://picsart.com/create/workflows",
+    "https://picsart.com/image-models/",
+    "https://cdn-pipeline-output.picsart.com",
+    "https://picsart.com/create/assets/index-C_b0X4L8.js",
+    "https://picsart.com/landings-ssr/_next/static/chunks/turbopack-1abf928b7acf34d5.js",
+    "https://privacy.picsart.com/optout/",
+    "https://cdn140.picsart.com",
+    "https://picsart.com/templates/",
+    "https://picsart.com/create/editor?experience=edit&category=miniapps&app=com.picsart.edit.ai-try-on",
+    "https://picsart.com/create/manifest.webmanifest",
+    "https://picsart.com/landings-ssr/_next/static/chunks/dbaeda37fa0ae2eb.js",
+    "https://picsart.com/video-models/",
+    "https://picsart.com/industries/",
+    "https://picsart.com/batch-photo-editor/",
+    "https://picsart.com/templates/tiktok/",
+    "https://picsart.com/solutions/enterprise/",
+    "https://picsart.com/create/undefined",
+    "https://picsart.com/templates/videos/",
+    "https://picsart.com/ai-influencer-studio?vibeId=coquette",
+    "https://picsart.com/ai-influencer-studio?vibeId=poetcore_scholar",
+    "https://picsart.com/ai-influencer-studio?vibeId=cute_kawaii",
+    "https://picsart.com/accessibility-statement/"
+  ],
+  "alive_endpoints": {
+    "/create/editor": [
+      "app",
+      "experience",
+      "category"
+    ],
+    "/create/workflows/manifest.webmanifest": [
+      "page",
+      "id"
+    ],
+    "/blog": [
+      "page",
+      "id"
+    ],
+    "/sign-in": [
+      "page",
+      "id",
+      "nextUrl"
+    ],
+    "/manifest.webmanifest": [
+      "page",
+      "id"
+    ],
+    "/ai-avatar": [
+      "page",
+      "id"
+    ],
+    "/persona": [
+      "page",
+      "id"
+    ],
+    "/about-us": [
+      "page",
+      "id"
+    ],
+    "/affiliates": [
+      "page",
+      "id"
+    ],
+    "/copyright-dispute-policy": [
+      "page",
+      "id"
+    ],
+    "/security-policy": [
+      "page",
+      "id"
+    ],
+    "/undefined": [
+      "page",
+      "id"
+    ],
+    "/careers": [
+      "page",
+      "id"
+    ],
+    "/templates/instagram/stories": [
+      "page",
+      "id"
+    ],
+    "/community-guidelines": [
+      "page",
+      "id"
+    ],
+    "/ai-image-generator": [
+      "page",
+      "id"
+    ],
+    "/gw1": [
+      "page",
+      "id"
+    ],
+    "/privacy-policy": [
+      "page",
+      "id"
+    ],
+    "/design": [
+      "page",
+      "id"
+    ],
+    "/create/workflows": [
+      "page",
+      "id"
+    ],
+    "/": [
+      "page",
+      "id"
+    ],
+    "/ai-video-generator": [
+      "page",
+      "id"
+    ],
+    "/create": [
+      "app",
+      "page",
+      "id"
+    ],
+    "/apps": [
+      "prompt",
+      "experience",
+      "mapp",
+      "mode"
+    ],
+    "/ai-playground": [
+      "page",
+      "id"
+    ],
+    "/press-kit": [
+      "page",
+      "id"
+    ],
+    "/create/manifest.webmanifest": [
+      "page",
+      "id"
+    ],
+    "/ai-influencer-studio": [
+      "vibeId",
+      "id",
+      "page"
+    ],
+    "/create/undefined": [
+      "page",
+      "id"
+    ],
+    "/image-models": [
+      "page",
+      "id"
+    ],
+    "/tools/1.0/upscale/enhance": [
+      "page",
+      "id"
+    ],
+    "/optout": [
+      "page",
+      "id"
+    ],
+    "/templates": [
+      "page",
+      "id"
+    ],
+    "/pricing": [
+      "page",
+      "id"
+    ],
+    "/industries": [
+      "page",
+      "id"
+    ],
+    "/video-models": [
+      "page",
+      "id"
+    ],
+    "/batch-photo-editor": [
+      "page",
+      "id"
+    ],
+    "/accessibility-statement": [
+      "page",
+      "id"
+    ],
+    "/templates/videos": [
+      "page",
+      "id"
+    ],
+    "/sketch/${le}": [
+      "page",
+      "id"
+    ],
+    "/photos/${le}": [
+      "page",
+      "id"
+    ],
+    "/upscale": [
+      "page",
+      "id"
+    ],
+    "/styleTransfer": [
+      "page",
+      "id"
+    ],
+    "/matting/${le}": [
+      "page",
+      "id"
+    ],
+    "/v2/webhooks": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/solutions/enterprise": [
+      "page",
+      "id"
+    ],
+    "/settings": [
+      "page",
+      "id"
+    ],
+    "/v3/templates": [
+      "page",
+      "id"
+    ],
+    "/tools/1.0/removebg": [
+      "page",
+      "id"
+    ],
+    "/v3/categories/tree": [
+      "page",
+      "id"
+    ],
+    "/v2/workflows": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/effects/${se.body.effect}/${se.body.sid}": [
+      "page",
+      "id"
+    ],
+    "/face-collage/${se}": [
+      "page",
+      "id"
+    ],
+    "/multiMatting": [
+      "page",
+      "id"
+    ],
+    "/v1/deeplink/content": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/v3/templates/featured": [
+      "page",
+      "id"
+    ],
+    "/pricing/special-offer/gift/valentine": [
+      "page",
+      "id"
+    ],
+    "/cartoon-effects/v1": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/gold/teams": [
+      "page",
+      "id"
+    ]
+  },
+  "endpoints": {
+    "/create/editor": [
+      "app",
+      "experience",
+      "category"
+    ],
+    "/create/workflows/manifest.webmanifest": [
+      "page",
+      "id"
+    ],
+    "/blog": [
+      "page",
+      "id"
+    ],
+    "/sign-in": [
+      "page",
+      "id",
+      "nextUrl"
+    ],
+    "/manifest.webmanifest": [
+      "page",
+      "id"
+    ],
+    "/ai-avatar": [
+      "page",
+      "id"
+    ],
+    "/persona": [
+      "page",
+      "id"
+    ],
+    "/about-us": [
+      "page",
+      "id"
+    ],
+    "/affiliates": [
+      "page",
+      "id"
+    ],
+    "/copyright-dispute-policy": [
+      "page",
+      "id"
+    ],
+    "/security-policy": [
+      "page",
+      "id"
+    ],
+    "/undefined": [
+      "page",
+      "id"
+    ],
+    "/careers": [
+      "page",
+      "id"
+    ],
+    "/templates/instagram/stories": [
+      "page",
+      "id"
+    ],
+    "/community-guidelines": [
+      "page",
+      "id"
+    ],
+    "/ai-image-generator": [
+      "page",
+      "id"
+    ],
+    "/gw1": [
+      "page",
+      "id"
+    ],
+    "/privacy-policy": [
+      "page",
+      "id"
+    ],
+    "/design": [
+      "page",
+      "id"
+    ],
+    "/create/workflows": [
+      "page",
+      "id"
+    ],
+    "/": [
+      "page",
+      "id"
+    ],
+    "/ai-video-generator": [
+      "page",
+      "id"
+    ],
+    "/create": [
+      "app",
+      "page",
+      "id"
+    ],
+    "/apps": [
+      "prompt",
+      "experience",
+      "mapp",
+      "mode"
+    ],
+    "/ai-playground": [
+      "page",
+      "id"
+    ],
+    "/press-kit": [
+      "page",
+      "id"
+    ],
+    "/create/manifest.webmanifest": [
+      "page",
+      "id"
+    ],
+    "/ai-influencer-studio": [
+      "vibeId",
+      "id",
+      "page"
+    ],
+    "/create/undefined": [
+      "page",
+      "id"
+    ],
+    "/image-models": [
+      "page",
+      "id"
+    ],
+    "/tools/1.0/upscale/enhance": [
+      "page",
+      "id"
+    ],
+    "/optout": [
+      "page",
+      "id"
+    ],
+    "/templates": [
+      "page",
+      "id"
+    ],
+    "/pricing": [
+      "page",
+      "id"
+    ],
+    "/industries": [
+      "page",
+      "id"
+    ],
+    "/video-models": [
+      "page",
+      "id"
+    ],
+    "/batch-photo-editor": [
+      "page",
+      "id"
+    ],
+    "/accessibility-statement": [
+      "page",
+      "id"
+    ],
+    "/templates/videos": [
+      "page",
+      "id"
+    ],
+    "/sketch/${le}": [
+      "page",
+      "id"
+    ],
+    "/photos/${le}": [
+      "page",
+      "id"
+    ],
+    "/upscale": [
+      "page",
+      "id"
+    ],
+    "/styleTransfer": [
+      "page",
+      "id"
+    ],
+    "/matting/${le}": [
+      "page",
+      "id"
+    ],
+    "/v2/webhooks": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/solutions/enterprise": [
+      "page",
+      "id"
+    ],
+    "/settings": [
+      "page",
+      "id"
+    ],
+    "/v3/templates": [
+      "page",
+      "id"
+    ],
+    "/tools/1.0/removebg": [
+      "page",
+      "id"
+    ],
+    "/v3/categories/tree": [
+      "page",
+      "id"
+    ],
+    "/v2/workflows": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/effects/${se.body.effect}/${se.body.sid}": [
+      "page",
+      "id"
+    ],
+    "/face-collage/${se}": [
+      "page",
+      "id"
+    ],
+    "/multiMatting": [
+      "page",
+      "id"
+    ],
+    "/v1/deeplink/content": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/v3/templates/featured": [
+      "page",
+      "id"
+    ],
+    "/pricing/special-offer/gift/valentine": [
+      "page",
+      "id"
+    ],
+    "/cartoon-effects/v1": [
+      "sid",
+      "cid",
+      "url",
+      "ids",
+      "id"
+    ],
+    "/gold/teams": [
+      "page",
+      "id"
+    ]
+  },
+  "parameters": {
+    "/create/editor": [
+      {
+        "name": "app",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      },
+      {
+        "name": "category",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      },
+      {
+        "name": "experience",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      }
+    ],
+    "/create/workflows/manifest.webmanifest": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/blog": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/sign-in": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "nextUrl",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 7,
+        "test_priority": 4
+      }
+    ],
+    "/manifest.webmanifest": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/ai-avatar": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/persona": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/about-us": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/affiliates": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/copyright-dispute-policy": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/security-policy": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/undefined": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/careers": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/templates/instagram/stories": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/community-guidelines": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/ai-image-generator": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/gw1": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/privacy-policy": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/design": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/create/workflows": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/ai-video-generator": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/create": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "app",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      }
+    ],
+    "/apps": [
+      {
+        "name": "mapp",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      },
+      {
+        "name": "mode",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      },
+      {
+        "name": "prompt",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      },
+      {
+        "name": "experience",
+        "risk_level": "LOW",
+        "vulnerability_types": [],
+        "confidence": 5,
+        "test_priority": 4
+      }
+    ],
+    "/ai-playground": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/press-kit": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/create/manifest.webmanifest": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/ai-influencer-studio": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "vibeId",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/create/undefined": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/image-models": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/tools/1.0/upscale/enhance": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/optout": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/templates": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/pricing": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/industries": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/video-models": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/batch-photo-editor": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/accessibility-statement": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/templates/videos": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/sketch/${le}": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/photos/${le}": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/upscale": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/styleTransfer": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/matting/${le}": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/v2/webhooks": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "url",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 10,
+        "test_priority": 4
+      },
+      {
+        "name": "sid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "cid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "ids",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/solutions/enterprise": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/settings": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/v3/templates": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/tools/1.0/removebg": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/v3/categories/tree": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/v2/workflows": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "url",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 10,
+        "test_priority": 4
+      },
+      {
+        "name": "sid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "cid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "ids",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/effects/${se.body.effect}/${se.body.sid}": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/face-collage/${se}": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/multiMatting": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/v1/deeplink/content": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "url",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 10,
+        "test_priority": 4
+      },
+      {
+        "name": "sid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "cid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "ids",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/v3/templates/featured": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/pricing/special-offer/gift/valentine": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ],
+    "/cartoon-effects/v1": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      },
+      {
+        "name": "url",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "Open Redirect",
+          "SSRF"
+        ],
+        "confidence": 10,
+        "test_priority": 4
+      },
+      {
+        "name": "sid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "cid",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      },
+      {
+        "name": "ids",
+        "risk_level": "LOW",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 7,
+        "test_priority": 2
+      }
+    ],
+    "/gold/teams": [
+      {
+        "name": "id",
+        "risk_level": "MEDIUM",
+        "vulnerability_types": [
+          "IDOR",
+          "SQLi"
+        ],
+        "confidence": 10,
+        "test_priority": 2
+      }
+    ]
+  },
+  "sensitive_files": [],
+  "vulnerabilities": [
+    {
+      "type": "Open Redirect",
+      "subtype": "Unvalidated Redirect",
+      "endpoint": "/v1/deeplink/content",
+      "parameter": "url",
+      "payload": "https://evil.com",
+      "indicator": "Location header reflects payload: https://picsart.com/v1/deeplink/content?url=https%3A%2F%2Fevil.com",
+      "confidence": "High",
+      "reasoning": "Redirect target is attacker-controlled and reflected in Location header.",
+      "severity": "MEDIUM"
+    },
+    {
+      "type": "Open Redirect",
+      "subtype": "Unvalidated Redirect",
+      "endpoint": "/v2/webhooks",
+      "parameter": "url",
+      "payload": "https://evil.com",
+      "indicator": "Location header reflects payload: https://picsart.com/v2/webhooks?url=https%3A%2F%2Fevil.com",
+      "confidence": "High",
+      "reasoning": "Redirect target is attacker-controlled and reflected in Location header.",
+      "severity": "MEDIUM"
+    },
+    {
+      "type": "Open Redirect",
+      "subtype": "Unvalidated Redirect",
+      "endpoint": "/cartoon-effects/v1",
+      "parameter": "url",
+      "payload": "https://evil.com",
+      "indicator": "Location header reflects payload: https://picsart.com/cartoon-effects/v1?url=https%3A%2F%2Fevil.com",
+      "confidence": "High",
+      "reasoning": "Redirect target is attacker-controlled and reflected in Location header.",
+      "severity": "MEDIUM"
+    },
+    {
+      "type": "Open Redirect",
+      "subtype": "Unvalidated Redirect",
+      "endpoint": "/v2/workflows",
+      "parameter": "url",
+      "payload": "https://evil.com",
+      "indicator": "Location header reflects payload: https://picsart.com/v2/workflows?url=https%3A%2F%2Fevil.com",
+      "confidence": "High",
+      "reasoning": "Redirect target is attacker-controlled and reflected in Location header.",
+      "severity": "MEDIUM"
+    }
+  ],
+  "attack_paths": [],
+  "scored_endpoints": [
+    {
+      "endpoint": "/v2/webhooks",
+      "score": 13,
+      "risk_level": "CRITICAL",
+      "parameter_count": 5,
+      "high_risk_params": 4,
+      "confidence": 8
+    },
+    {
+      "endpoint": "/v2/workflows",
+      "score": 13,
+      "risk_level": "CRITICAL",
+      "parameter_count": 5,
+      "high_risk_params": 4,
+      "confidence": 8
+    },
+    {
+      "endpoint": "/v1/deeplink/content",
+      "score": 13,
+      "risk_level": "CRITICAL",
+      "parameter_count": 5,
+      "high_risk_params": 4,
+      "confidence": 8
+    },
+    {
+      "endpoint": "/cartoon-effects/v1",
+      "score": 9,
+      "risk_level": "HIGH",
+      "parameter_count": 5,
+      "high_risk_params": 4,
+      "confidence": 8
+    },
+    {
+      "endpoint": "/ai-influencer-studio",
+      "score": 5,
+      "risk_level": "MEDIUM",
+      "parameter_count": 3,
+      "high_risk_params": 2,
+      "confidence": 6
+    },
+    {
+      "endpoint": "/settings",
+      "score": 5,
+      "risk_level": "MEDIUM",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/create/workflows/manifest.webmanifest",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/blog",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/sign-in",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 3,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/manifest.webmanifest",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/ai-avatar",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/persona",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/about-us",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/affiliates",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/copyright-dispute-policy",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/security-policy",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/undefined",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/careers",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/templates/instagram/stories",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/community-guidelines",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/ai-image-generator",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/gw1",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/privacy-policy",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/design",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/create/workflows",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/ai-video-generator",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/create",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 3,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/ai-playground",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/press-kit",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/create/manifest.webmanifest",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/create/undefined",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/image-models",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/tools/1.0/upscale/enhance",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/optout",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/templates",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/pricing",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/industries",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/video-models",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/batch-photo-editor",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/accessibility-statement",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/templates/videos",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/sketch/${le}",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/photos/${le}",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/upscale",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/styleTransfer",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/matting/${le}",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/solutions/enterprise",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/v3/templates",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/tools/1.0/removebg",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/v3/categories/tree",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/effects/${se.body.effect}/${se.body.sid}",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/face-collage/${se}",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/multiMatting",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/v3/templates/featured",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/pricing/special-offer/gift/valentine",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/gold/teams",
+      "score": 3,
+      "risk_level": "LOW",
+      "parameter_count": 2,
+      "high_risk_params": 1,
+      "confidence": 5
+    },
+    {
+      "endpoint": "/create/editor",
+      "score": 1,
+      "risk_level": "LOW",
+      "parameter_count": 3,
+      "high_risk_params": 0,
+      "confidence": 4
+    },
+    {
+      "endpoint": "/apps",
+      "score": 1,
+      "risk_level": "LOW",
+      "parameter_count": 4,
+      "high_risk_params": 0,
+      "confidence": 4
+    }
+  ],
+  "js_analysis": {
+    "https://picsart.com/create/assets/clonObject-xK3a5aOP.js": {
+      "url": "https://picsart.com/create/assets/clonObject-xK3a5aOP.js",
+      "endpoints": "{'/create'}",
+      "parameters": "{'storage_experiment_version', 'Experience', 'market', 'short', 'ids', 'only_pinned_items', 'Tablet', 'ParamName', 'premium_formula_name', 'Tags', 'customSize', 'Mobile', 'SystemTags', 'ParamValue', 'source', 'unit', 'package_type', 'State', 'include_tag_content', 'page_name', 'category'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/ba0a79be54787ab7.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/ba0a79be54787ab7.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/assets/manifest-OO-kEa43.js": {
+      "url": "https://picsart.com/create/assets/manifest-OO-kEa43.js",
+      "endpoints": "{'/create'}",
+      "parameters": "{'list', 'emptyMargin', 'edit', 'footer', 'layout', 'showAnimationTools', 'animation', 'fitToImageSize', 'enableGettyFilter', 'defaultTemplateId', 'hideMultiCanvasToolbar', 'undoRedoControls', 'system', 'ui', 'autoSave', 'canvasLimit', 'disableLicenseFilter', 'premiumAnimations', 'offlineUploads', 'textToImageNewBannerType', 'authentication', 'linkUpload', 'collections', 'uploadDescription', 'cropMark', 'uploads', 'logo', 'canvasOptions', 'isLayerSettingsMiniAppEnabled', 'compression', 'lightModeEnabled', 'categories', 'contextMenu', 'fontTools', 'showColorPresets', 'videoTools', 'fitExportPDFSizeResult', 'upgradeButton', 'requireAuthentication', 'storeImagesInReplay', 'designerMode', 'isViewModesEnabled', 'hidePremiumBadge', 'simpleTextsVisibility', 'videos', 'subtitles', 'disableBlendModes', 'queries', 'showColorPalette', 'background', 'textToImage', 'showColorPicker', 'isCommercial', 'hideCancelBtn', 'toggleView', 'oneClickEditMode', 'showTags', 'singleAddText', 'viewExpanded', 'includeUgc', 'analytics', 'hideOption', 'printing', 'exportFormats', 'videoEngineExport', 'shapeToCollage', 'disableAuthProvider', 'PPI', 'applyMultiPageOnClick', 'tintBar', 'colorBar', 'includeSources', 'showUploadLoader', 'uploadButtonLabel', 'fontsFolderView', 'miniapps', 'Getty', 'contentDataApi', 'uploadAndDrawVideo', 'enableSubscription', 'stickerShapes', 'text', 'module', 'exportTemplateData', 'effectsTabs', 'showPrintBleedByDefault', 'showRecent', 'highlight', 'stickers', 'safeAreaSizeInch', 'supportedMediaFormats', 'services', 'replayDraft', 'text_credits', 'search', 'disablePrivateUpload', 'bleedSizeInch', 'networkControls', 'multiCanvasEnabled', 'templates', 'showTextPresetsFrom', 'tabs', 'provideData', 'title', 'showMaximizerInfoText', 'customFontList', 'checkDPI', 'effectsToExclude', 'thumbnailHeader', 'saveAsDraft', 'enableCloudStorage', 'nextButton', 'audio', 'market', 'helpWidgetList', 'restoreCanvas', 'photos', 'tools', 'printablePdf', 'disableLinesPackage', 'stickersStudio', 'endpoint', 'fontStyle', 'short', 'backendSave', 'measurement', 'activeEffectPage', 'showAIStylesMiniApp', 'draw', 'fps', 'bend', 'enableVideoAnimation', 'uploadAndDrawImage', 'showAdvancedSearchDropdown', 'showGradientTab', 'elements', 'maxDpi', 'searchApi', 'include_sources', 'photosSlider', 'pulse', 'customSize', 'showLowResImageLoader', 'lockOption', 'thumbnailFooter', 'exportSettings', 'web', 'blackAndWhite', 'fitBackgroundToBleedArea', 'filters', 'templatesLoadSettings', 'disableContentTypeFilter', 'adjust', 'enableAllObjectsAnimation', 'stroke', 'image', 'combinedElementsChooser', 'googleFonts', 'unsupportedColorTypes', 'ENV_TARGET', 'comments', 'sidebar', 'showShortcuts', 'volume', 'imageExportCompression', 'video', 'hideTextStylesToolbarButton', 'isAutoCompleteEnabled', 'advancedText', 'unsupportedBlends', 'icon', 'hidePreview', 'branding', 'header', 'enableHints', 'resolution', 'uploadTab', 'smallTitle', 'backBtn', 'Picsart', 'get', 'colors', 'hslAdjust', 'customLabels', 'whitelistCdnUrls', 'umountMiniappOnToolChange', 'aiWriterCanvasTouchPoint', 'licenses', 'overlays', 'starTarget', 'zoomControls', 'hidePremiumIcons', 'addText', 'videoEnable', 'pageInfo', 'newBackgroundChooser', 'recent', 'aiEnhanceMethod', 'editModeOnAdd', 'fontSearchSortingType', 'library', 'toolbar', 'templatesManagement', 'endpoints', 'showMakeTransparentBtn', 'burn', 'dataManagement', 'featureToggles', 'themeSwitcher', 'showWatermark', 'imageLoadCompression', 'Unsplash', 'esm', 'page_name', 'allowVideoUpload', 'registrationMark', 'collectionsCloudStorage', 'enabled', 'waitForRemoteSettings', 'href', 'newFontChooserTouchPoint', 'reduxTraceLimit', 'canReportMedia', 'cancelButton', 'combinedElements', 'cloudStorage', 'debuggingOptions', 'effect'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/bfd6eee454633b82.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/bfd6eee454633b82.js",
+      "endpoints": "set()",
+      "parameters": "{'flightRouterState', 'appendChild', 'push', 'shouldScroll', 'hash', 'removeChild', 'canonicalUrl', 'requestKey', 'renderedSearch', 'scrollableSegments', 'varyPath', 'then', 'replace', 'vary', 'cacheNode'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/a7ea0fadefdf6983.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/a7ea0fadefdf6983.js",
+      "endpoints": "set()",
+      "parameters": "{'scroll', 'input', 'uA', 'pointerover', 'xmlLang', 'br', 'compositionstart', 'hashchange', 'contentEditable', 'math', 'innerHTML', 'width', 'compositionupdate', 'formAction', 'area', 'beforeblur', 'rows', 'div', 'seeked', 'multiple', 'blur', 'dangerouslySetInnerHTML', 'formNoValidate', 'fulfilled', 'ref', 'xlinkActuate', 'allowFullScreen', 'set', 'required', 'LINK', 'data', 'link', 'scoped', 'pointermove', 'playsInline', 'dragend', 'open', 'auxclick', 'source', 'ratechange', 'mount', 'script', 'body', 'HEAD', 'click', 'popover', 'SCRIPT', 'uJ', 'defaultChecked', 'className', 'rQ', 'li', 'Capture', 'role', 'size', 'bigint', 'onScrollEnd', 'action', 'srcSet', 'noModule', 'keypress', 'string', 'wheel', 'track', 'selectstart', 'onMouseMove', 'drag', 'preserveAlpha', 'disableRemotePlayback', 'contextmenu', 'pointerup', 'compositionend', 'itemScope', 'gotpointercapture', 'css', 'afterblur', 'submit', 'touchcancel', 'onMouseUpCapture', 'beforetoggle', 'xlinkArcrole', 'selectionchange', 'uj', 'name', 'value', 'dragexit', 'img', 'collapsed', 'children', 'pointerout', 'text', 'textInput', 'src', 'readOnly', 'volumechange', 'autoPlay', 'view-transition-class', 'uQ', 'object', 'dragenter', 'controls', 'dir', 'autoFocus', 'checked', 'onMouseUp', 'path', 'xmlBase', 'message', 'reactFormReplay', 'keyup', 'spellCheck', 'onClick', 'dblclick', 'mouseenter', 'xmlSpace', 'onMouseEnter', 'option', 'textContent', 'play', 'download', 'invalid', 'popstate', 'mouseover', 'reversed', 'audioworklet', 'number', 'paste', 'xlinkRole', 'title', 'Unidentified', 'is', 'noValidate', 'touchend', 'map', 'mouseout', 'HTML', 'xlinkType', 'pause', 'pointercancel', 'onMouseDown', 'audio', 'onDoubleClick', 'dragleave', 'font', 'meta', 'together', 'suppressHydrationWarning', 'rowSpan', 'embed', 'sharedworker', 'worker', 'mouseleave', 'resize', 'independent', 'innerText', 'focusable', 'mousemove', 'pointerdown', 'head', 'mousedown', 'dragover', 'externalResourcesRequired', 'focusin', 'change', 'cancel', 'wbr', 'capture', 'uW', 'backwards', 'button', 'fullscreenchange', 'dialog', 'l4', 'image', 'type', 'menuitem', 'rejected', 'pointerleave', 'inert', 'base', 'style', 'xlinkHref', 'loop', 'autoReverse', 'lostpointercapture', 'video', 'mouseup', 'hidden', 'tabIndex', 'select', 'BODY', 'viewBox', 'sO', 'span', 'get', 'disablePictureInPicture', 'Enter', 'keygen', 'touchstart', 'defaultValue', 'typeof', 'svg', 'onScroll', 'focusout', 'draggable', 'onClickCapture', 'col', 'beforeinput', 'xlinkShow', 'reset', 'keydown', 'symbol', 'onDoubleClickCapture', 'visible', 'close', 'copy', 'height', 'pointerenter', 'serviceworker', 'xlinkTitle', 'start', 'stylesheet', 'onMouseMoveCapture', 'html', 'scrollend', 'paintworklet', 'touchmove', 'drop', 'toggle', 'param', 'details', 'dragstart', 'void', 'href', 'cols', 'focus', 'hr', 'textarea', 'muted', 'STYLE', 'cut', 'seamless', 'iframe', 'defer', 'onMouseDownCapture', 'disabled', 'boolean'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/2e91514a83da74ae.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/2e91514a83da74ae.js",
+      "endpoints": "set()",
+      "parameters": "{'resolved_module', 'typeof', 'low', 'pending', 'value', 'fulfilled', 'high', 'halted', 'getReader', 'vary', 'oc', 'prerender', 'html', 'done', 'cache', 'rejected', 'request', 'resolved_model', 'Infinity', 'dom', 'blocked', 'NaN'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/7ddde28df01258a6.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/7ddde28df01258a6.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/8f51a44ec99a5188.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/8f51a44ec99a5188.js",
+      "endpoints": "set()",
+      "parameters": "{'url', 'lazy', 'fill', 'base', 'cover', 'none', 'title', 'meta', 'xMidYMid', 'typeof', 'replace'}",
+      "paths": "{'/landings-ssr/_next/image/', '/_next/image'}"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/730f42fedb28b667.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/730f42fedb28b667.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/046b276477bfc857.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/046b276477bfc857.js",
+      "endpoints": "set()",
+      "parameters": "{'beginner', 'file', 'socialMedia', 'advanced', 'url', 'infinity', 'certification', 'presetId', 'logo', 'navigation', 'high', 'scope_id', 'to', 'platform', 'legal', 'eager', 'appDownload', 'Unmute', 'features', 'intermediate', 'black', 'type', 'category', 'metainfo', 'style', 'paragraph', 'app', 'desktop'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/assets/manifest-CsuRkijs.js": {
+      "url": "https://picsart.com/create/assets/manifest-CsuRkijs.js",
+      "endpoints": "{'/create'}",
+      "parameters": "{'list', 'emptyMargin', 'edit', 'footer', 'layout', 'showAnimationTools', 'animation', 'fitToImageSize', 'enableGettyFilter', 'defaultTemplateId', 'picsart', 'hideMultiCanvasToolbar', 'undoRedoControls', 'ui', 'autoSave', '[object Number]', 'canvasLimit', '[object Array]', 'disableLicenseFilter', 'premiumAnimations', 'offlineUploads', 'textToImageNewBannerType', 'authentication', 'linkUpload', 'collections', '[object Float64Array]', 'uploadDescription', 'cropMark', 'uploads', 'logo', 'canvasOptions', '[object Int16Array]', 'immer-nothing', 'isLayerSettingsMiniAppEnabled', 'compression', 'lightModeEnabled', 'categories', 'contextMenu', 'fontTools', 'showColorPresets', 'videoTools', 'platform', 'app_miniapp_load', 'fitExportPDFSizeResult', '[object WeakMap]', 'upgradeButton', 'requireAuthentication', 'storeImagesInReplay', 'designerMode', 'isViewModesEnabled', 'hidePremiumBadge', 'simpleTextsVisibility', 'videos', 'subtitles', 'disableBlendModes', 'queries', 'showColorPalette', 'background', 'textToImage', 'showColorPicker', 'isCommercial', 'hideCancelBtn', 'toggleView', 'oneClickEditMode', 'showTags', 'singleAddText', 'viewExpanded', 'includeUgc', 'native', 'analytics', '[object Date]', 'hideOption', 'printing', 'exportFormats', 'videoEngineExport', 'shapeToCollage', 'string', 'disableAuthProvider', 'PPI', 'applyMultiPageOnClick', 'tintBar', 'colorBar', 'includeSources', 'showUploadLoader', '[object Int32Array]', '[object Boolean]', 'uploadButtonLabel', 'fontsFolderView', 'miniapps', 'Getty', 'contentDataApi', 'pending', 'uploadAndDrawVideo', 'immer_draftable', 'enableSubscription', 'stickerShapes', 'text', '[object Uint16Array]', 'exportTemplateData', 'effectsTabs', 'showPrintBleedByDefault', 'object', 'showRecent', 'highlight', 'stickers', 'safeAreaSizeInch', 'supportedMediaFormats', 'services', 'replayDraft', '__proto__', 'text_credits', 'search', 'disablePrivateUpload', 'bleedSizeInch', 'networkControls', 'multiCanvasEnabled', '[object Float32Array]', 'templates', 'showTextPresetsFrom', 'version', '[object Map]', 'number', 'tabs', 'provideData', 'title', 'showMaximizerInfoText', '[object Function]', 'customFontList', 'checkDPI', '[object RegExp]', 'effectsToExclude', 'thumbnailHeader', 'saveAsDraft', 'enableCloudStorage', 'nextButton', 'audio', 'market', 'helpWidgetList', 'restoreCanvas', 'photos', 'tools', 'printablePdf', 'disableLinesPackage', 'stickersStudio', 'immer_state', 'endpoint', '[object Uint32Array]', '[object Int8Array]', 'fontStyle', 'short', '[object Uint8Array]', 'backendSave', 'measurement', 'activeEffectPage', 'showAIStylesMiniApp', 'draw', 'fps', 'bend', 'enableVideoAnimation', 'uploadAndDrawImage', 'platform_version', 'showAdvancedSearchDropdown', '[object String]', 'showGradientTab', 'elements', '__lodash_hash_undefined__', 'maxDpi', 'searchApi', 'photosSlider', 'pulse', 'customSize', 'showLowResImageLoader', 'include_sources', 'lockOption', 'thumbnailFooter', 'exportSettings', 'blackAndWhite', 'fitBackgroundToBleedArea', '[object Uint8ClampedArray]', 'filters', 'templatesLoadSettings', 'disableContentTypeFilter', 'adjust', 'enableAllObjectsAnimation', 'stroke', 'image', 'combinedElementsChooser', '[object Object]', 'googleFonts', 'unsupportedColorTypes', 'comments', 'sidebar', 'append', '[object Error]', 'showShortcuts', 'volume', 'imageExportCompression', 'video', 'hideTextStylesToolbarButton', 'isAutoCompleteEnabled', '[object ArrayBuffer]', 'advancedText', 'unsupportedBlends', 'icon', '[object Set]', 'hidePreview', 'branding', 'header', 'enableHints', 'resolution', 'uploadTab', 'smallTitle', 'backBtn', 'Picsart', 'get', 'colors', 'hslAdjust', 'customLabels', 'whitelistCdnUrls', 'typeof', 'umountMiniappOnToolChange', 'aiWriterCanvasTouchPoint', 'licenses', 'overlays', 'starTarget', 'zoomControls', 'hidePremiumIcons', 'addText', '[object Arguments]', 'videoEnable', 'symbol', 'sid', 'newBackgroundChooser', 'pageInfo', 'child', 'recent', 'aiEnhanceMethod', 'editModeOnAdd', 'fontSearchSortingType', 'library', 'toolbar', 'templatesManagement', 'endpoints', 'showMakeTransparentBtn', 'burn', 'dataManagement', 'featureToggles', 'themeSwitcher', 'showWatermark', 'imageLoadCompression', 'Unsplash', '[object DataView]', 'page_name', 'allowVideoUpload', 'registrationMark', 'collectionsCloudStorage', 'enabled', 'waitForRemoteSettings', 'newFontChooserTouchPoint', 'reduxTraceLimit', 'canReportMedia', 'cancelButton', 'combinedElements', 'cloudStorage', 'debuggingOptions', 'trim', 'effect'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/assets/hostInit-DN0VETpe.js": {
+      "url": "https://picsart.com/create/assets/hostInit-DN0VETpe.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/880964428bc9b25d.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/880964428bc9b25d.js",
+      "endpoints": "set()",
+      "parameters": "{'request', 'status', 'prerender', 'typeof', 'then', 'cache'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/580be733a23b7963.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/580be733a23b7963.js",
+      "endpoints": "set()",
+      "parameters": "{'number', 'server', 'fulfilled', 'bigint', 'typeof', 'object', 'rejected', 'string'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/0641c68182723641.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/0641c68182723641.js",
+      "endpoints": "set()",
+      "parameters": "{'11g9vi', '1l729n', '4bpg5p', 'ilb8ba', 'xquz4c', '1vc78b', '1fpfkl', '13hhkx', '1ewh16', '5ykzw1', '4gnj0m', 'launch', '1i2n21', '1rnc9c', '2e1cvw', 'in4fa5', 'utm_source', '4ej97u', 'npa21l', '1ue2ih', '1m3agn', '1oxtiu', '1akyts', 'afitv7', 'ijwkga', 'utm_medium', '1jp15x', 'id', '14w2eb', '1s2grr', 'mk3on5', '1lakjw', 'zfgn84', 'qrunsl', '7q97r8', '1obp7u', '10s06x', 'x3x0zl', '1xmnt7', 'sponae', 'aywv1n', 'zcdpyk', '1mglay', '1vbyd7', '7oei6x', '1tepv9', 'ul74o6', '14pb5j', 'ih7n3h', 'asdhe0', 'ftymec', '1b0cd5', 'o932ke', '15g9kq', '1x0j5s', '1q6k2b', '1cnmox', '3ypg7q', '1lh1kg', 'gwowj6', '1i4yhu', 'go4c1d', '1230mu', 'l9bcsi', '1o8tra', '1rf3ol', 'x0mq9r', '1gmf2c', '6kqj1y', 'to', 'nextUrl', '13zald', 'af1f0g', 'm4t9c1', '1yorad', 'ruj8y', '95g1m2', '1wgbhj', '1djgab', '1u1bxd', 'mthhwq', 'utm_campaign', 'tus03m', 'gl', '9lu3g6', 'zfb6yr', '153udz', '7u0qdc', 'bt5ra8', '1djwo0', '1tzkfa', '1jg4f8', '9exkf1', '1t8f8n', 'myr1c1', '1bl5f8', 'eua70x', 'hl', 'mode', 's699le', '1r5n42', '14j7rj', '10w3f3', 'hav0vg', 'r4j83e', 'd8bk6v', 'uqj9uw', '1wnfg3', 'bbkbws', '1q2vi4', '158x01', 'blhpug', 's6n7sd', 'vwvbt9', '11trls', '108xh3', '1ays0h', 'c2jq9f', 'h1oib', '1vod17', '1q8mjw', 'z9xiuo', 'pff0z6', '39pd36'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/workflows/assets/index-CW0b_LHG.js": {
+      "url": "https://picsart.com/create/workflows/assets/index-CW0b_LHG.js",
+      "endpoints": "{'/v2/workflows', '/v3/templates', '/v2/workflows/templates', '/v2/webhooks', '/v3/categories/tree', '/v3/templates/featured'}",
+      "parameters": "{'pointerover', 'scroll', 'innerHTML', 'account.id', 'cookie', 'email_encoded', 'blur', 'account_termination_confirmed', 'pointermove', 'ctActionMode', 'dragend', 'auxclick', 'modifiedFetch', 'structuralCheck', 'ratechange', 'scale', 'le', 'js', 'ctCustomHtmlPreview', 'trackCustomEvent', '_t', 'setConfig', 'localStorage', 'insertBefore', 'welcome_upsell', 'afterblur', 'selectionchange', 'name', 'pointerout', 'resolve', 'invariant', 'values', 'dragenter', 'active', 'checked', 'getInstance', 'keyup', 'rtl', 'option', 'GET', 'development', 'policy_notice_skiped', 'container', 'addEventListener', 'invalid', 'registerInterceptor', 'flex', 'NaN', 'terminated', '[\"+et+\"]', 'mouseout', 'onMouseDown', 'onDoubleClick', 'configure', 'array', 'include', 'dragover', 'workflowId', 'focusin', 'spin', 'to', 're', 'button', 'REPLACE', 'decr', 'category', 'makeReadOnly', 'clear', 'lostpointercapture', 'transparent', 'prod', 'color', 'payloadVersion', 'childList', 'onClickCapture', 'beforeinput', 'variables', 'aborted', 'operationName', 'symbol', 'stage', 'onDoubleClickCapture', 'Ul', 'unstable_middleware', 'onMouseMoveCapture', 'samsung', 'smarttv', 'tracecontext', 'g-recaptcha-action', 'ee', 'te', 'oe', 'textarea', 'onMouseDownCapture', 'compositionstart', 'hashchange', 'apiKey', 'render', 'incr', 'maximizer', 'gtm_preview', 'Themed', 'streamId', 'click', 'clearInterceptors', 'decimal', 'fetch', 'entries', 'action', 'string', 'emails', 'selector', 'WZRK_WR', 'contextmenu', 'roll', 'google_one_tap', 'actionContainer', 'dark', 'onMouseUpCapture', 'dragexit', 'transitioning', 'object', 'fs', 'clone', 'read', 'je', 'onMouseEnter', 'Et', 'form', 'hoverButton', 'mouseover', 'query', 'Unidentified', 'touchend', 'arraybuffer', 'audio', 'first', 'mousemove', \"wzrk_click_' + 'c2a\", 'Mobile', 'backwards', 'has', 'dispatcherGuard', 'warn', 'initializeTagManager', 'pointerleave', 'be', 'firstChild', 'characterData', 'pricing_page', 'touchstart', 'pointer', 'du', 'focusout', 'Er', 'reset', 'processEvent', 'close', 'add', 'production', 'html', 'touchmove', 'keys', 'succeeded', 'dynamic', 'document', 'success', 'iframe', 'strategy', 'trim', 'complete', 'index', 'detail', 'math', 'align-items', 'attachInterceptor', 'D_', 'beforeblur', 'div', 'datadog', 'auto', 'E_', 'set', 'variant', 'jt', 'remove', 'was', 'page', 'source', 'landscape', 'age_notice_declined', 'placeholder', 'wzrk_click_c2a', 'filterId', 'alt', 'getFormData', 'Capture', 'undefined_project', 'size', 'DD_ALLOW', 'b3', 'setOptions', 'Te', 'keypress', 'gtm_auth', 'drag', 'ae', 'id', 'pointerup', 'dataLayer', 'submit', 'gotpointercapture', 'touchcancel', 've', 'pageView', 'pending', 'Tt', 'collapsed', 'img', 'volumechange', 'event', 'v3', 'targetSelector', 'onMouseUp', 'segment', 'Ae', 'onClick', 'dblclick', 'mouseenter', 'records', 'of', 'json', 'activeTab', 'title', 'regex', 'pause', 'pointercancel', '_unhandled', 'androidtv', 'Ki', \"wzrk_click_' + 'url\", 'other', 'omit', 'Rr', 'credits_package_info', 'originUrl', 'length', 'change', 'cancel', 'is_credit_user', 'et', 'project', 'important', 'credits_info', 'De', 'age_notice_confirmed', 'pushDataLayer', 'select', 'ctWebPopupPreview', 'get', 'closestParentDataTestId', 'svg', 'webos', 'write', 'blob', 'scopeId', 'copy', 'connected', 'pointerenter', 'post', 'gtm_cookies_win', 'start', 'stylesheet', 'local', 'ddforward', 'drop', 'rcSerializedType', 'details', 'focus', 'Xd', 'cut', 'attributes', 'importTagManagerModule', 'Location', 'handleData', 'boolean', 'input', 'animation', 'frozen', 'compositionupdate', 'Me', 'unshift', 'seeked', 'Tablet', 'concat', 'link', 'put', 'de', 'StrictMode', 'tizen', 'dom', 'block', 'none', 'getFlowByCampaign', 'delete', 'wheel', 'sendEvent', 'paused', 'selectstart', 'onMouseMove', 'free', 'deprecate', 'detach', 'log', 'compositionend', 'pt', 'appendChild', 'elementDataTestId', 'textInput', 'getPackageId', 'policy_notice_confirmed', 'message', 'ke', 'mt', 'play', 'sendEventNonInteraction', 'popstate', 'error', 'number', 'paste', 'light', 'childNodes', 'OUL', 'dragleave', 'Kt', 'together', 'mouseleave', 'embed', 'resize', 'We', 'url', 'b3multi', 'pointerdown', 'mousedown', 'cardImage', 'sn', 'gradient', 'fullscreenchange', 'init', 'info', 'free_trial', 'sentAt', 'dialog', 'dev', 'image', 'type', 'load', 'style', 'rt', 'super', 'hidden', 'mouseup', 'video', 'last', 'na', 'paymentFlow', 'Ve', 'CLTP_WR', 'forwards', 'access_token', 'Enter', 'typeof', 'lt', 'keydown', 'expand', 'personalisation', 'getOptions', 'toggle', 'cardOverlay', 'dragstart', 'end'}",
+      "paths": "{'/terms-of-use', '/privacy-policy', '/create'}"
+    },
+    "https://picsart.com/create/registerSW.js": {
+      "url": "https://picsart.com/create/registerSW.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/a6dad97d9634a72d.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/a6dad97d9634a72d.js",
+      "endpoints": "set()",
+      "parameters": "{'Arguments', 'CLOUDFLARE', 'uy', 'GeneratorFunction', 'NODE', 'values', 'dgimsy', 'BUN', 'BROWSER', 'AsyncGeneratorFunction', 'set', 'keys', 'Iy', 'AsyncFunction', 'DENO', 'entries'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/assets/index-C_b0X4L8.js": {
+      "url": "https://picsart.com/create/assets/index-C_b0X4L8.js",
+      "endpoints": "{'/photos/${le}', '/upscale/?${serializeParams(ee)}', '/sketch/${le}', '/skySegmentation/?original_photo_id=${se}', '/face-landmarks/?photo_id=${se.sid}', '/pricing/special-offer/gift/valentine', '/multiMatting/?${serializeParams(ee)}', '/v1/deeplink/content', '/cartoon-effects/v1/?photo_id=${se}&model=${le}', '/tools/1.0/upscale/ultra', '/tools/1.0/upscale/enhance', '/pricing/', '/create', '/matting/${le}', '/styleTransfer/?${ue}', '/settings?activeTab=BillingAndSubscriptions', '/face-collage/${se}', '/tools/1.0/upscale', '/tools/1.0/removebg', '/effects/${se.body.effect}/${se.body.sid}', '/gold/teams'}",
+      "parameters": "{'gi', 'int32', 'touch', 'fontTools', 'meters', 'modifiedFetch', 'structuralCheck', 'le', 'disableBlendModes', 'showColorPicker', 'Transform', 'COMMENT', 'Metadata', 'discNumber', '-webkit-transform', 'lineTo', 'center', '--dlg-action-min-w', 'uploadButtonLabel', 'vp9', 'resolve', 'values', 'AAAsmall', 'projectId', 'registerInterceptor', 'CMNT', 'rotationZ', 'terminated', '+Ft+', 'ALBUM', 'CSS', 'showAIStylesMiniApp', 'BROWSER_MAP', 'Spot', 'Other', 'zr', 'button', 'algorithm', 'CreatorWorkEmail', 'int16', 'category', 'makeReadOnly', 'slice', 'scnr', 'unsupportedBlends', 'popupOpen', 'color', 'uploadTab', 'photo', 'unsigned', 'Ze', 'xt', 'handleDeactivate', 'MultiSpot', 'aborted', 'COMM', 'videoEnable', 'f32', 'ICMT', 'aiEnhanceMethod', 'back', 'fontSearchSortingType', 'quadCurveTo', 'stsd', 'masksProperties', 'kn', 'href', 'oe', 'ICRD', 'Oops', 'stz2', 'layout', 'emptyMargin', 'fitToImageSize', 'YEAR', 'vt', 'render', 'TYE', 'authentication', 'ye', 'Ot', 'isLayerSettingsMiniAppEnabled', 'contextMenu', 'showColorPresets', 'download_button', 'requireAuthentication', 'frameRate', 'subtitles', 'Themed', 'update', 'ir', 'fetch', 'entries', 'Macro', 'forward', 'desc', 'action', 'objectExport', 'gs', 'scaleY', 'contentDataApi', 'read', 'inline', 'emptyStateViewOpen', 'EOF', 'dropRight', 'saveAsDraft', 'setAppElement', 'int8', 'eventName', 'tools', 'disableLinesPackage', 'immer_state', 'System', 'license', 'IGNR', 'ue', 'activeEffectPage', 'fps', 'st', 'Windows', 'TP2', 'textData', '_start', 'moveTo', 'enterFrame', 'dispatcherGuard', 'uint32', 'rotateIn', 'be', 'TIT2', 'volume', 'hover', 'resolution', 'smallTitle', 'pricing_page', 'whitelistCdnUrls', 'aiWriterCanvasTouchPoint', 'Er', 'D65', 'reset', 'custom-size', 'uo', 'newBackgroundChooser', 'Hard', 'Pattern', 'destroy', 'tfdt', 'I444AP12', 'key', 'registrationMark', 'success', 'spac', 'uint8', 'combinedElements', 'TrustedHTML', 'debuggingOptions', 'strategy', 'general', 'fields', 'complete', 'bm_rt', 'attachInterceptor', 'qe', 'avc', 'raw', 'propertyFactory', 'ef', 'set', 'isViewModesEnabled', 'ENGINE_MAP', 'placeholder', 'traf', 'alt', 'hd', 'parent', 'Tr', 'undefined_project', 'viewExpanded', 'co64', 'b3', 'Jn', 'cid', 'track_number', 'Adaptive', 'i1', 'colorBar', 'Cupcake', 'dataLayer', '_r', 'empty', 'setupFocusTrap', 'OS_MAP', 'targetSelector', 'kClass', 'segment', 'search', 'Xt', 'request', 'allocationSize', 'activeTab', 'title', 'customFontList', 'regex', 'handleClickOutsideDeactivates', 'enableCloudStorage', 'nextButton', 'ac', 'printablePdf', 'omit', 'cn', 'credits_package_info', 'include_sources', 'opus', 'is_credit_user', 'thumbnailFooter', 'isPaid', 'credits_info', 'templatesLoadSettings', 'stroke', 'age_notice_confirmed', 'pushDataLayer', 'gt', 'cover', 'texture', 'trak', 'decompress', 'front', 'onComplete', 'pageInfo', 'connected', 'mdhd', 'endpoints', 'showMakeTransparentBtn', 'featureToggles', 'backward', 'readObjectCOROUTINE', 'imageLoadCompression', 'cr', 'bm_div', 'uint16', 'D55', 'cloudStorage', 'TRK', 'I444P12', 'animation', 'zi', 'offset', 'Tablet', '_e', 'text_resource', 'put', 'hidePremiumBadge', 'inches', 'deactivateTrap', 'sendEvent', 'paused', 'text_tool_values', 'detach', 'includeSources', 'avc3', 'elementDataTestId', 'value', 'Downwards', 'uploadAndDrawVideo', 'filterClick', 'readDeepRecursive', 'showRecent', 'getPackageId', 'safeAreaSizeInch', 'createFlowClick', 'y1', 'optional', 'Gingerbread', 's16', 'childNodes', 'mntr', 'TRACKNUMBER', 'bm_sub', 'Kt', 'limit', 'model', 'mfra', 'url', 'take', 'DISCNUMBER', 'wave', 'CreatorAddress', 'init', 'SIMPLE_TRANSCODE', 'tkhd', 'enableAllObjectsAnimation', 'Response', 'takeRight', 'super', 'u8', 'rldt', 'file_url', 'nm', 'centimeters', 'myphotos', 'float64', 'tap', 'getOptions', 'eac3', 'strokeR', 'skew', 'effects', 'i16', 'disableLicenseFilter', 'Position', 'i8', 'cookie', 'anchorY', 'byteOffset', 'data', 'isPhoto', 'Mono', 'Ft', 'createEleme', 'setConfig', 'tintBar', 'insertBefore', 'templateId', 'opacity', 'welcome_upsell', 'dOps', 'skip_upsample', 'miniapps', 'exportTemplateData', 'CreatorWorkPhone', 'Nt', 'Oreo', 'udta', 'policy_notice_skiped', 'apple', 'medium', 'Portrait', 'effectsToExclude', 'transform', 'prtr', 'configure', 'alertMessageSeen', 'Ar', 'endpoint', 'Ee', 'fontStyle', 'elst', 'JPEG', 'customSize', 'images', 'web', 'xe', 'closeDialog', 'disableContentTypeFilter', 'RADIAL', 'TAL', 'forEach', 'Kilometers', 'photoEditorOpen', 'listenToLayer', 'find', 'coverBack', 'Picsart', 'sticker', 'AnchorPoint', 'font_name', 'jr', 'AAAlarge', 'Qe', 'features', 'ulaw', 'ee', 'hevc', 'Jr', 'Je', 'refId', 'autoSave', 'apiKey', 'offlineUploads', 'lineByLine', 'uploadDescription', 'int16le', 'ref', 'TPE1', 'mdia', 'fitExportPDFSizeResult', 'RGBX', 'chromiumVersionCache', 'simpleTextsVisibility', 'singleAddText', 'format', 'mehd', 'TCO', 'bit', 'TPE2', 'showUploadLoader', '_shouldRender', 'tp', 'beforeOpen', 'Rotation', 'AAsmall', 'sr', 'av1C', 'module', 'IART', 'setFiles', 'object', 'previewScreenAction', 'jpg', 'GENR', 'Image', 'popupAction', 'Contents', 'templates', 'showTextPresetsFrom', 'typing', 'dinf', 'upload', 'showMaximizerInfoText', 'TP1', 'fi', 'audio', 'backendSave', 'bend', 'moof', 'CreatorRegion', 'high', 'KitKat', '--dlg-align', 'has', 'TT2', 'It', 'DESCRIPTION', 'tracksTotal', 'componentDidUpdate', 'header', 'TRCK', 'pointer', 'I444', 'abst', 'SeaMonkey', 'oi', 'bm_neg', 'colr', 'slambda', 'webp', 'filesOpen', 'Gr', 'colorG', 'themeSwitcher', 'keyframes', 'album_artist', 'EventTarget', 'Right', 'kt', 'sgi', 'succeeded', 'webvtt', 'Android', 'newFontChooserTouchPoint', 'bottom', 'dynamic', 'some', 'trex', 'Average', 'canvasLimit', 'premiumAnimations', 'textToImageNewBannerType', 'collections', 'hasMask', 'datadog', 'onPageLoad', 'auto', 'compression', 'jt', 'getSnapshotBeforeUpdate', 'Ea', 'filterId', 'showColorPalette', 'creditsEnabled', 'ge', 'hideOption', 'Te', 'av1', 'maximumPacketCount', 'trkn', 'uint32le', 'id', 'Tt', 'disposition', 'stickerShapes', 'text', 'strokeA', 'event', 'v3', 'x1', 'rc', 'services', 'text_credits', 'aac', 'Il', 'comment', 'arity', 'BGRX', 'Zn', 'Unknown', 'Ir', 'restoreCanvas', 'other', 'Rr', 'edit_requested', 'I422P10', 'album', 'wt', 'int16be', 'elements', 'edts', 'D75', 'DATE', 'lockOption', 'fLaC', 'important', 'gnre', 'dec3', 'sidebar', 'showShortcuts', 'op', 'thisWired', 'AAlarge', 'componentWillUpdate', 'sh', 'mandatory', 'hidePreview', 'so', 'getReturnFocusNode', 'mdat', 'I422A', 'Fluorescent', 'get', 'Kr', 'uploadClick', 'umountMiniappOnToolChange', 'push', 'appl', 'gf', 'zoomControls', 'hidePremiumIcons', 'albr', 'Partial', 'start', 'ddforward', 'rcSerializedType', 'disc', 'dfLa', '--dlg-text-align', 'Location', 'handleData', 'footer', 'Pixel Units', 'cstring', 'undoRedoControls', 'Gi', 'text_style', 'mix-blend-mode', 'unshift', 'cropMark', 'PIC', 'I420AP12', 'concat', 'categories', 'fr', 'stbl', 'fullPath', 'strokeB', 'link', 'int32le', 'TCON', 'upscale_factor', 'code', 'wrap', 'includeUgc', 'getFlowByCampaign', 'INAM', 'delete', 'deprecate', 'filesTabOpen', 'Getty', 'el', 'layers', 'policy_notice_confirmed', 'stickers', 'supportedMediaFormats', 'ke', 'u16string', 'discsTotal', 'version', 'part_number', 'An', 'stickersStudio', 'esds', 'thin', 'subscribe', 'b3multi', 'draw', 'Shapes', 'uploadDone', 'byte', 'maxDpi', 'bm_transform', 'pulse', 'TrustedScriptURL', 'info', 'adjust', 'ai', 'googleFonts', '${be}', 'IPRD', 'unsupportedColorTypes', 'load', 'imageExportCompression', 'video', 'hidden', 'isAutoCompleteEnabled', 'left', 'Nr', 'typeof', 'TDAT', '_\"+le+\"InDblClickWindow', 'CONIC', 'adbe', 'ty', 'NV12', 'Nougat', 'wi', 'Vt', 'nan', 'TITLE', 'enabled', 'DOMMouseScroll', 'defaultTemplateId', 'bm', 'latin1', 'account_termination_confirmed', 'Width', 'upgradeButton', 'textToImage', 'uint16le', 'driveChooserOpen', 'delay', 'ilst', 'sunw', 'enableSubscription', 'Dn', 'centered', 'path', 'active', 'date', 'pr', 'stss', 'flac', 'lyrics', 'both', 'Gn', 'NaN', 'APIC', 'helpWidgetList', 'stco', 'measurement', 'alaw', 'I422AP10', 'PLATFORMS_MAP', 'showGradientTab', 'cm', 'I420', 'blackAndWhite', 'covr', 'CharArray', 'settings', 'minf', 'Square', 'TT3', 'I444AP10', 'cenc', 'branding', 'customLabels', 'ar', 'zt', 'colorB', 'symbol', 'Yes', 'TRACKTOTAL', 'recent', 'matrix', 'float', 'pageClick', 'coverFront', '--dlg-actions-justify', 'Qo', 'cancelButton', 'Ht', 'lastChild', 'At', 'files', 'videoTools', 'slides', 'TPA', 'maximizer', 'videos', 'getContext', 'background', 'isCommercial', 'i32', 'shapeToCollage', 'we', 'selector', 'MacOS', 'png', 'handleOrientationChange', 'vpcC', 'Hr', 'clone', 'duration', 'cl', 'ao', 'DISCTOTAL', 'ms', 'TIT3', 'Et', 'shapePropertyFactory', 'i64', 'tt', 'float64le', 'file', 'vi', 'original_photo_id', 'stale', 'Pt', 'yt', 'scope_id', 'METADATA_BLOCK_PICTURE', 'subarray', 'hn', 'shapes', 'stsc', 'ltr', 'Yi', 'client', 'Donut', 'licenses', 'Yo', 'close', 'showWatermark', 'keys', 'Bulb', 'prgb', 'Unsplash', 'enda', 'CreatorCountry', 'evenodd', 'artist', 'exportPopupOpen', 'trim', 'index', 'Pn', 'math', 'timestamp', 'sw', 'tg', 'msft', 'buffer', 'anchorX', 'lightModeEnabled', 'dscp', 'Normal', 'ln', 'CreatorPostalCode', 'millimeters', 'designerMode', 'I422AP12', 'tiersEnabled', 'animations', 'getFormData', 'keyword', 'iOS', 'Be', 'Hint', 'size', 'setOptions', 'ind', 'seamonkey', 'gr', 'wordByWordOut', 'pageView', 'typeWritingOut', 'serializer', 'Froyo', 'setDraggedFiles', 'stsz', 'componentWillUnmount', 'networkControls', 'bm_mod', 'records', '--dlg-actions-dir', 'dragging', 'IDIT', 'mvhd', 'mm', 'dropDownItemClick', 'mvis', 'length', 'I444A', 'ARTIST', 'LYRICS', 'project', 'rotateInCanvas', 'Mr', 'exportSettings', 'copyTo', 'bm_isInstanceOfArray', 'filters', 'unsubscribe', 'ULT', 'Yt', 'BGRA', 'no', 'qo', 'windows', 'ur', 'write', 'addText', 'blob', 'u16stringle', 'Oe', 'tfra', 'height', 'scopeId', 'LINEAR', 'componentWillMount', 'local', 'add_photo', 'bm_mul', 'RatingPercent', 'vr', 'repeat', 'imask', 'focus', 'applyMultiPageOnClick', 'IPRT', 'boolean', 'list', 'Ta', 'showAnimationTools', 'system', 'frozen', 'anchorPoint', 'isItemSaved', 'keywords', 'uploads', 'reduce', 'saveProjectCreate', 'Daylight', 'custom', 'contains', 'zn', 'Opacity', 'double', 'trun', 'qt', 'toggleView', 'Miles', 'block', 'analytics', 'nr', 'printing', 'Scale', 'bm_sum', 'RGBA', 'free', 'rdf:parseType', 'showPrintBleedByDefault', 'morning', 'ip', 'rounded', 'Fs', 'replayDraft', '__proto__', 'mt', 'multiCanvasEnabled', 'sendEventNonInteraction', 'getty_original_photo', 'number', 'Dt', 'light', 'metadata', 'I444P10', 'Uncalibrated', 'enableVideoAnimation', 'uploadAndDrawImage', 'None', 'showLowResImageLoader', 'go', 'I420P10', 'free_trial', 'combinedElementsChooser', 'is_public', 'comments', 'drawnFrame', 'int32be', 'COM', 'DSC', 'GENRE', 'observable', 'totalChars', 'access_token', 'sid', 'getReader', 'Audio', 'Marshmallow', 'library', 'templatesManagement', 'Un', 'Hn', 'Pe', 'exportPopupAction', 'aART', 'Sr', 'rotation', 'normal', 'ui', 'Eclair', 'replayZipUrl', 'avcC', 'account.id', 'email_encoded', 'canvasOptions', 'blur', 'getDocument', 'RAP', 'Subtitle', 'scale', 'vp8', 'stts', 'off', 'disk', 'js', 'evening', 'hideCancelBtn', 'oneClickEditMode', 'dr', 'showTags', 'exportFormats', 'trackCustomEvent', '_t', 'track', 'Upwards', 'singleShape', 'er', 'I420A', 'parentDomain', 'Lt', 'low', 'name', 'NUMERIC', 'Qr', 'font_svg_url', 'NT', 'u16stringbe', 'Ut', 'getInstance', 'rtl', 'disablePrivateUpload', 'OggS', '_\"+le+\"ListenClick', 'GET', 'AA', 'BULLET', 'hi', 'short', 'ei', 'array', 'include', 'ii', 'I422', 'position', 'searchApi', 'webm', 'to', 'colorA', 'colorR', 'Mt', 'Visual', 'mousewheel', 'saveProjectDeleted', 'clear', 'transparent', 'Pg', 'rr', 'bulk', 'stpp', 'titl', 'Shade', 'colors', 'Standard', 'Lollipop', 'params', 'BooleanArray', 'languageCode', 'right', 'filesClick', 'toolbar', 'nmcl', 'dataManagement', 'tracecontext', 'esm', 'g-recaptcha-action', 'page_name', 'Or', 'inherit', 'genre', 'canReportMedia', 'immer_draftable', 'quicktime', 'edit', 'enableGettyFilter', 'hideMultiCanvasToolbar', 'XP', 'componentWillReceiveProps', 'startMeasure', 'albm', 'LongArray', 'Qt', 'storeImagesInReplay', 'streamId', 'click', 'clearInterceptors', 'State', 'friendly', 'description', 'ri', 'I420AP10', 'string', 'vorbis', 'emails', 'PPI', 'photo_id', 'signed', 'wordByWord', 'USLT', 'google_one_tap', 'dark', 'fontsFolderView', 'TITL', 'Rt', 'he', 'fs', 'je', 'trackNumber', 'float32', 'Modify Date', 'TALB', 'segmentStart', 'tgnt', 'tabs', 'provideData', 'Qi', 'thumbnailHeader', 'tfhd', 'meta', 'first', 'luminance', 'componentDidMount', 'uint8c', 'CenterWeightedAverage', 'Mobile', 'Di', 'top', 'warn', 'initializeTagManager', 'TYER', 'Pie', 'firstChild', 'advancedText', 'ks', 'TDRC', 'driveChooserClick', 'backBtn', 'hslAdjust', 'authuser', 'in', 'lineByLineOut', 'starTarget', 'ctts', 'tr', 'editModeOnAdd', 'openDialog', 'html', 'curveTo', 'uploadType', 'Pixels Per Unit Y', 'fl', 'shape', 'previewScreenOpen', 'typeWriting', 'linkUpload', 'Manual', 'div', 'fontAnimation', 'removeChild', 'skewAxis', 'mvex', 'ALBUMARTIST', 'fileCopyLink', 'age_notice_declined', 'DD_ALLOW', 'driveChooserDone', 'videoEngineExport', 'apikey', 's32', 'uint16be', '_recentSetterPlugin', 'migrateToCredits', 'albumArtist', 'uint32be', 'submit', 'hvcC', 'output_type', 'ease', 'float64be', 'scaleX', 'dac3', 'bleedSizeInch', 'CreatorCity', 'mlnk', 'moduleRtn', 'TPOS', 'D50', 'market', 'root', 'photos', 'portrait', 'I422P12', 'showAdvancedSearchDropdown', 'content_item_draw_time', 'strokeG', 'org', 'subtitle', 'fitBackgroundToBleedArea', 'android', 'ENV_TARGET', 'Knots', 'Lr', 'Ol', 'updatePreviousElement', 'closestParentDataTestId', 'svg', 'byteLength', 'overlays', 'Dr', 'post', 'Zt', 'burn', 'regular', 'sc', 'loopComplete', 'endMeasure', 'drop', 'pasp', 'reduxTraceLimit', 'td', 'importTagManagerModule', 'width', 'qr', 'ac3', 'logo', 'Tp', 'Pr', 'destructors', 'I420P12', 'done', 'queries', 'Flash', 'dom', 'none', 'Sc', 'italic', 'wheel', 'disableAuthProvider', 'hdlr', 'rdf:resource', 'ITRK', 'pcmC', 'Landscape', 'linearGradient', 'pt', 'appendChild', 'Effects', 'effectsTabs', 'CreatorWorkUrl', 'theme', 'highlight', 'Ct', 'dropDownMenuClick', 'float32le', 'error', 'Bt', 'processing', 'se', 'float32be', 'premium', 'checkDPI', 'bold', 'fill', 'moov', 'photosSlider', 'editorAsMiniapp', 'disc_number', 'image', 'type', 'sources', 'handlePostDeactivate', 'hideTextStylesToolbarButton', 'modifyParams', 'last', 'pn', 'na', 'icon', 'enableHints', 'sRGB', 'Honeycomb', 'onOrientationChange', 'expand', 'mp3', 'Se', 'Soft', 'black', 'allowVideoUpload', 'collectionsCloudStorage', 'waitForRemoteSettings', 'end', '1st', 'effect'}",
+      "paths": "{'/terms-of-use', '/privacy-policy', '/diffbir-enhancement-service/v1.4.11', '/editorAsMiniapp', '/tools/sample'}"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/turbopack-1abf928b7acf34d5.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/turbopack-1abf928b7acf34d5.js",
+      "endpoints": "set()",
+      "parameters": "set()",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/assets/manifest-DO2uzK1L.js": {
+      "url": "https://picsart.com/create/assets/manifest-DO2uzK1L.js",
+      "endpoints": "set()",
+      "parameters": "{'pointerover', 'input', 'scroll', 'compositionstart', 'hashchange', 'math', 'compositionupdate', 'beforeblur', 'seeked', 'blur', 'link', 'pointermove', 'ie', 'dragend', 'auxclick', 'source', 'ratechange', 'StrictMode', 'click', 'Capture', 'keypress', 'string', 'wheel', 'selectstart', 'onMouseMove', 'drag', 'contextmenu', 'pointerup', 'compositionend', 'gotpointercapture', 'submit', 'afterblur', 'touchcancel', 'onMouseUpCapture', 'selectionchange', 'dragexit', 'pointerout', 'img', 'collapsed', 'textInput', 'volumechange', 'invariant', 'dragenter', 'object', 'je', 'checked', 'onMouseUp', 'message', 'keyup', 'onClick', 'dblclick', 'mouseenter', 'onMouseEnter', 'play', 'option', 'invalid', 'popstate', 'mouseover', 'number', 'paste', 'Unidentified', 'touchend', 'mouseout', 'pause', 'pointercancel', 'onMouseDown', 'audio', 'onDoubleClick', 'dragleave', 'together', 'mouseleave', 'embed', 'resize', 'mousemove', 'pointerdown', 'mousedown', 'dragover', 'focusin', 'change', 'yt', 'cancel', 'backwards', 'button', 'fullscreenchange', 'dialog', 'image', 'pointerleave', 'xn', 'lostpointercapture', 'mouseup', 'hidden', 'video', 'select', 'forwards', 'Enter', 'touchstart', 'typeof', 'svg', 'lt', 'focusout', 'onClickCapture', 'beforeinput', 'reset', 'keydown', 'symbol', 'onDoubleClickCapture', 'close', 'copy', 'pointerenter', 'onMouseMoveCapture', 'touchmove', 'drop', 'toggle', 'Pe', 'details', 'dragstart', 'focus', 'textarea', 'cut', 'iframe', 'onMouseDownCapture', 'boolean'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/-/app-shell/2.130.5/static/index-C6E1wiRy.js": {
+      "url": "https://picsart.com/-/app-shell/2.130.5/static/index-C6E1wiRy.js",
+      "endpoints": "set()",
+      "parameters": "{'pointerover', 'input', 'scroll', 'compositionstart', 'hashchange', 'complete', 'index', 'math', 'system', 'frozen', 'strategy', 'compositionupdate', 'beforeblur', 'account.id', 'cookie', 'seeked', 'datadog', 'blur', '_e', 'ct', 'link', 'pointermove', 'dragend', 'auxclick', 'source', 'ratechange', 'streamId', 'js', 'StrictMode', 'click', 'entries', 'Capture', 'DD_ALLOW', 'dom', 'none', 'b3', '_t', 'keypress', 'string', 'wheel', 'selectstart', 'onMouseMove', 'drag', 'trim', 'contextmenu', 'pointerup', 'compositionend', 'gotpointercapture', 'submit', 'afterblur', 'pt', 'appendChild', 'onMouseUpCapture', 'touchcancel', 'selectionchange', 'dragexit', 'pending', 'Ri', 'pointerout', 'img', 'collapsed', 'transitioning', 'module', 'textInput', 'volumechange', 'resolve', 'invariant', 'dragenter', 'object', 'checked', 'onMouseUp', 'message', 'active', 'keyup', 'onClick', 'dblclick', 'mt', 'mouseenter', 'onMouseEnter', 'play', 'option', 'Et', 'invalid', 'popstate', 'mouseover', 'fh', 'number', 'paste', 'Unidentified', 'tk', 'regex', 'childNodes', 'touchend', 'terminated', 'it', 'mouseout', 'pause', 'pointercancel', 'onMouseDown', 'audio', 'onDoubleClick', 'dragleave', 'together', 'other', 'mouseleave', 'embed', 'omit', 'resize', 'b3multi', 'mousemove', 'pointerdown', 'array', 'include', 'mousedown', 'dragover', 'focusin', 'sk', 'change', 'cancel', 'backwards', 'button', 'fullscreenchange', 'init', 'dialog', 'Mt', 'image', 'gt', 'eg', 'pointerleave', 'load', 'lostpointercapture', 'mouseup', 'hidden', 'video', 'ot', 'select', 'color', 'forwards', 'get', 'Enter', 'touchstart', 'typeof', 'xt', 'svg', 'focusout', 'zg', 'onClickCapture', 'beforeinput', 'write', 'aborted', 'reset', 'keydown', 'symbol', 'onDoubleClickCapture', 'close', 'copy', 'pointerenter', 'St', 'connected', 'stylesheet', 'start', 'onMouseMoveCapture', 'ddforward', 'nt', 'tracecontext', 'touchmove', 'drop', 'toggle', 'esm', 'succeeded', 'rcSerializedType', 'details', 'dragstart', 'dynamic', 'focus', 'textarea', 'success', 'cut', 'iframe', 'onMouseDownCapture', 'Location', 'boolean'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/dbaeda37fa0ae2eb.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/dbaeda37fa0ae2eb.js",
+      "endpoints": "set()",
+      "parameters": "{'appendChild'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/create/assets/heic-to-B_0QBRI6.js": {
+      "url": "https://picsart.com/create/assets/heic-to-B_0QBRI6.js",
+      "endpoints": "set()",
+      "parameters": "{'imageData', 'Z2', 'J0', 'restore', 'poor', 'id', 'buffer', 'f0', 's2', 'set', '${T2}', 'stylesheet', 'destructors', 'prerender', 'z2', 'error', 'slice', 'thisWired', 'X1'}",
+      "paths": "set()"
+    },
+    "https://picsart.com/landings-ssr/_next/static/chunks/f5e7aadae35502e2.js": {
+      "url": "https://picsart.com/landings-ssr/_next/static/chunks/f5e7aadae35502e2.js",
+      "endpoints": "set()",
+      "parameters": "{'prod', 'stage', 'dev', 'local'}",
+      "paths": "set()"
+    }
+  },
+  "correlation": {
+    "attack_surface_summary": {
+      "total_subdomains": 2,
+      "total_urls": 99,
+      "total_endpoints": 59,
+      "total_parameters": 136
+    },
+    "security_findings": {
+      "total_vulnerabilities": 4,
+      "critical_endpoints": 4,
+      "attack_paths_identified": 0
+    },
+    "priority_targets": [
+      {
+        "endpoint": "/cartoon-effects/v1",
+        "score": 9,
+        "risk_level": "HIGH",
+        "parameter_count": 5,
+        "high_risk_params": 4,
+        "confidence": 8
+      }
+    ],
+    "critical_findings": [],
+    "recommendations": [
+      "Found 4 potential vulnerabilities with supporting evidence - remediation recommended",
+      "Identified 1 high-risk endpoints - prioritize security review",
+      "Implement Web Application Firewall (WAF) to protect against identified attack vectors"
+    ]
+  },
+  "tested_endpoints": 5,
+  "candidate_endpoints": 5,
+  "start_time": 1774681421.241578,
+  "elapsed_time": 158.2783305644989,
+  "wordlists_used": {
+    "subdomain": "default",
+    "directory": "default"
+  }
+}
