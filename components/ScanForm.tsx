@@ -24,7 +24,7 @@ export default function ScanForm({ onScanStart, onScanComplete }: ScanFormProps)
   useEffect(() => {
     const loadWordlists = async () => {
       try {
-        const response = await fetch('http://localhost:8000/wordlists');
+        const response = await fetch('https://attack-surface-intelligence.onrender.com/wordlists');
         const data = await response.json();
         setWordlists(data.wordlists || []);
       } catch (err) {
@@ -51,7 +51,7 @@ export default function ScanForm({ onScanStart, onScanComplete }: ScanFormProps)
 
     try {
       // Start scan
-      const scanResponse = await fetch('http://localhost:8000/scan', {
+      const scanResponse = await fetch('https://attack-surface-intelligence.onrender.com/scan', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -77,12 +77,12 @@ export default function ScanForm({ onScanStart, onScanComplete }: ScanFormProps)
       const maxAttempts = 300; // 5 minutes with 1-second intervals
 
       while (!completed && attempts < maxAttempts) {
-        const statusResponse = await fetch(`http://localhost:8000/scan/${scanId}`);
+        const statusResponse = await fetch(`https://attack-surface-intelligence.onrender.com/scan/${scanId}`);
         const statusData = await statusResponse.json();
 
         if (statusData.status === 'completed') {
           // Fetch full results
-          const resultsResponse = await fetch(`http://localhost:8000/scan/${scanId}/results`);
+          const resultsResponse = await fetch(`https://attack-surface-intelligence.onrender.com/scan/${scanId}/results`);
           const results = await resultsResponse.json();
           onScanComplete(results);
           completed = true;
