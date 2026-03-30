@@ -22,7 +22,7 @@ export default function WordlistManager() {
   const loadWordlists = async () => {
     setLoading(true);
     try {
-      const response = await fetch('http://localhost:8000/wordlists');
+      const response = await fetch('https://attack-surface-intelligence.onrender.com/wordlists');
       const data = await response.json();
       setWordlists(
         data.wordlists?.map((filename: string) => ({
@@ -66,7 +66,7 @@ export default function WordlistManager() {
       const formData = new FormData();
       formData.append('file', file);
 
-      const response = await fetch('http://localhost:8000/upload-wordlist', {
+      const response = await fetch('https://attack-surface-intelligence.onrender.com/upload-wordlist', {
         method: 'POST',
         body: formData,
       });
